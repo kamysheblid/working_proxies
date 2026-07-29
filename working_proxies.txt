@@ -1,45 +1,39 @@
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp# | speed: 1.56 Mbps
-vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?security=none&encryption=none&headerType=none&type=tcp# | 🇸🇬 speed: 14.43 Mbps
-vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?security=none&encryption=none&headerType=none&type=tcp# | speed: 13.15 Mbps
-vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?security=none&encryption=none&headerType=none&type=tcp# | speed: 13.94 Mbps
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@direct.doctor-alan.ir:443?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=1234567890abcdef&allowinsecure=0&type=tcp&headerType=none# | speed: 9.67 Mbps
-vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?security=&encryption=none&headerType=none&type=tcp# | speed: 14.61 Mbps
-vless://04e0bafa-156e-47fd-84b2-d14621998d16@38.54.105.247:443?mode=auto&path=%2FJgisifHwvjY&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=Yj4jRAWjaDwWV3eTOtMu0VWgkImjWQB97jEJMn4UDi8&fp=chrome&spx=%2Fbx2kEzOW52flStc&type=xhttp&sni=mail.google.com&sid=2d41f6d2# | 🇹🇷 speed: 10.40 Mbps
-vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp# | 🇸🇬 speed: 16.63 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22223?encryption=none&security=none&type=tcp# | 🇫🇷 speed: 11.58 Mbps
-vless://cb5b05f2-c598-4262-8a22-c900898663ea@188.130.207.89:8080?encryption=none&extra=%7B%22headers%22%3A%7B%22Google%22%3A%22play.google.com%22%7D%2C%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000# | 🇫🇷 speed: 3.71 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22222?encryption=none&security=none&type=tcp# | 🇫🇷 speed: 6.40 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?encryption=none&security=none&type=tcp# | speed: 8.97 Mbps
-vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?security=&encryption=none&headerType=&type=tcp# | speed: 12.82 Mbps
-vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?security=&encryption=none&headerType=&type=tcp# | 🇸🇬 speed: 11.88 Mbps
-vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.146:2550?security=&encryption=none&headerType=&type=tcp# | 🇸🇬 speed: 14.30 Mbps
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&type=xhttp&security=tls&path=%2FJoin-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&sni=static.lotussec.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0# | 🇩🇪 speed: 8.69 Mbps
-vless://ea8938b3-c3a5-4699-97d1-efc982aa05ae@89.251.8.143:443?encryption=none&fp=chrome&pbk=Yudxks_MZu4z6O50D7UI9Yjn04yI5QvzJSjvYxUpPXc&security=reality&sid=dfa1&sni=play.google.com&spx=%2F77ee4b63608d5a2&type=tcp# | 🇹🇷 speed: 6.64 Mbps
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@direct.doctor-alan.ir:443?security=reality&encryption=none&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=1234567890abcdef# | speed: 10.10 Mbps
-vless://ea8938b3-c3a5-4699-97d1-efc982aa05ae@89.251.8.143:443?security=reality&encryption=none&pbk=Yudxks_MZu4z6O50D7UI9Yjn04yI5QvzJSjvYxUpPXc&headerType=none&fp=chrome&spx=%2F77ee4b63608d5a2&type=tcp&sni=play.google.com&sid=dfa1# | 🇹🇷 speed: 11.79 Mbps
-vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@net1.wizardx1.com:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=icloud.com# | 🇳🇱 speed: 8.71 Mbps
-vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@net1.wizardx1.com:2045?flow=&type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=icloud.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc# | speed: 10.03 Mbps
-vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@britain.relvuno.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com# | speed: 11.08 Mbps
-vless://efc9ffd0-aff8-4f3a-b0f9-1c1777a4e2c4@134.122.85.126:53996?encryption=none&fp=chrome&pbk=aNMxt5DL5lJSEb_zKQTvGw7GJqpLrOuNQMNUQ8A-BQ8&security=reality&sid=25735c7d0c3dda&sni=timeline.www.cloudflare.com&spx=%2F0a1c609a6e82a8c&type=tcp# | speed: 13.84 Mbps
-vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@de.hunerux.oorluma.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com# | speed: 8.58 Mbps
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%40irconfiig%20%F0%9F%87%A7%F0%9F%87%B7 | speed: 2.75 Mbps
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#%F0%9F%87%AC%F0%9F%87%A7%20CDN | 🇨🇦 speed: 3.02 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#@v2reya88%20%7C%20%40confinghub2 | 🇦🇱 speed: 11.10 Mbps
-vless://%40V2CONFIGPRO@162.159.38.119:8443?mode=auto&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=argentinavsspain.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=argentinavsspain.dpdns.org#@v2reya88%20%7C%20%40confinghub2 | 🇺🇸 speed: 15.46 Mbps
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#@v2reya88%20%7C%20%40confinghub2 | speed: 10.29 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#%F0%9F%87%BA%F0%9F%87%A6UA-194.54.80.37-2388 | 🇺🇦 speed: 3.45 Mbps
-vless://efc9ffd0-aff8-4f3a-b0f9-1c1777a4e2c4@134.122.85.126:53996?security=reality&encryption=none&pbk=aNMxt5DL5lJSEb_zKQTvGw7GJqpLrOuNQMNUQ8A-BQ8&headerType=none&fp=chrome&spx=%2F0a1c609a6e82a8c&type=tcp&sni=timeline.www.cloudflare.com&sid=25735c7d0c3dda#filembad-610 | speed: 16.84 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?security=none&encryption=none&headerType=none&type=tcp#filembad-560 | 🇫🇷 speed: 14.32 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&security=none&type=tcp#filembad-559 | 🇫🇷 speed: 13.67 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22223?security=none&encryption=none&headerType=none&type=tcp#filembad-558 | 🇫🇷 speed: 8.84 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-556 | 🇫🇷 speed: 6.42 Mbps
-vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?security=&encryption=none&headerType=&type=tcp#filembad-510 | speed: 14.82 Mbps
-vless://c19735a7-ff97-a112-3f07-60e500f7719b@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fnlwin&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Nll-l--sS--Aa.Kingcloud-1.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Nll-l--sS--Nl.Kingcloud-1.Ir#NormanV2ray-471 | speed: 14.64 Mbps
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#canfingV2rayNG-450 | speed: 10.11 Mbps
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#ProxyMtpVPN-230 | 🇨🇦 speed: 2.77 Mbps
-ss://Y2hhY2hh`M`jAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.146.222:1080#filembad-70 | speed: 12.30 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#filembad-67 | 🇳🇱 speed: 8.98 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#filembad-64 | speed: 14.24 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38:1080#filembad-37 | speed: 7.64 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.207.106:1080#filembad-36 | speed: 12.02 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#filembad-30 | 🇺🇸 speed: 6.25 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-61.231.49.100-0116 | 🇹🇼 speed: 3.85 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-61.231.49.177-0114 | 🇹🇼 speed: 4.35 Mbps
+vmess://ewogICAgImFkZCI6ICIxOTIuMjA0LjU3LjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0ZGE5YWRmMy04YzBjLTQ4YTctOTJhYy00MjljNzJhNzZlZjgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvc3BlZWQiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xOTIuMjA0LjU3LjMwLTAzODciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ== | speed: 6.02 Mbps
+vmess://ewogICAgImFkZCI6ICJ0d2R4Ni5iYWlkdXBpLnRvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImNvcy5hcC1zaGFuZ2hhaS5teXFjbG91ZC5jb20iLAogICAgImlkIjogIjg1YWQyMWUxLWMyY2QtMzQwNy1hYTkwLTgxNWYzZjNlYTYzNiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hc3NldHMvaW1hZ2VzLyIsCiAgICAicG9ydCI6IDIwOTYsCiAgICAicHMiOiAi8J+HufCfh7xUVy0xMjUuMjMwLjEwMy45My0wNTM0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0= | speed: 3.57 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.54.80.37:1080#%F0%9F%87%BA%F0%9F%87%A6UA-194.54.80.37-2388 | speed: 12.73 Mbps
+vless://efc9ffd0-aff8-4f3a-b0f9-1c1777a4e2c4@134.122.85.126:53996?security=reality&encryption=none&pbk=aNMxt5DL5lJSEb_zKQTvGw7GJqpLrOuNQMNUQ8A-BQ8&headerType=none&fp=chrome&spx=%2F0a1c609a6e82a8c&type=tcp&sni=timeline.www.cloudflare.com&sid=25735c7d0c3dda#filembad-614 | 🇩🇪 speed: 14.92 Mbps
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=none&fp=chrome&type=tcp#filembad-583 | speed: 10.77 Mbps
+vless://ea8938b3-c3a5-4699-97d1-efc982aa05ae@89.251.8.143:443?security=reality&encryption=none&pbk=Yudxks_MZu4z6O50D7UI9Yjn04yI5QvzJSjvYxUpPXc&headerType=none&fp=chrome&spx=%2F77ee4b63608d5a2&type=tcp&sni=play.google.com&sid=dfa1#filembad-580 | speed: 8.84 Mbps
+vless://ea8938b3-c3a5-4699-97d1-efc982aa05ae@89.251.8.143:443?encryption=none&fp=chrome&pbk=Yudxks_MZu4z6O50D7UI9Yjn04yI5QvzJSjvYxUpPXc&security=reality&sid=dfa1&sni=play.google.com&spx=%2F77ee4b63608d5a2&type=tcp#filembad-579 | speed: 7.77 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?security=none&encryption=none&headerType=none&type=tcp#filembad-562 | speed: 6.39 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&security=none&type=tcp#filembad-561 | speed: 6.58 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22223?security=none&encryption=none&headerType=none&type=tcp#filembad-560 | speed: 5.97 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22223?encryption=none&security=none&type=tcp#filembad-559 | speed: 4.42 Mbps
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#filembad-517 | speed: 15.25 Mbps
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?security=none&encryption=none&headerType=none&type=tcp#filembad-516 | speed: 15.44 Mbps
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?security=&encryption=none&headerType=&type=tcp#filembad-515 | speed: 15.52 Mbps
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?security=none&encryption=none&headerType=none&type=tcp#filembad-514 | speed: 14.16 Mbps
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?security=&encryption=none&headerType=&type=tcp#filembad-513 | speed: 15.51 Mbps
+vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?security=none&encryption=none&headerType=none&type=tcp#filembad-512 | speed: 15.94 Mbps
+vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?security=&encryption=none&headerType=none&type=tcp#filembad-511 | speed: 15.25 Mbps
+vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?security=&encryption=none&headerType=&type=tcp#filembad-510 | speed: 17.51 Mbps
+vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.146:2550?security=&encryption=none&headerType=&type=tcp#filembad-509 | speed: 15.73 Mbps
+vless://cb5b05f2-c598-4262-8a22-c900898663ea@188.130.207.89:8080?encryption=none&extra=%7B%22headers%22%3A%7B%22Google%22%3A%22play.google.com%22%7D%2C%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#filembad-485 | speed: 4.69 Mbps
+vless://c19735a7-ff97-a112-3f07-60e500f7719b@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fnlwin&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Nll-l--sS--Aa.Kingcloud-1.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Nll-l--sS--Nl.Kingcloud-1.Ir#NormanV2ray-467 | speed: 13.15 Mbps
+vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@britain.relvuno.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#filembad-452 | speed: 12.93 Mbps
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#canfingV2rayNG-448 | speed: 12.20 Mbps
+vless://a6d7e54f-3600-4f9d-bac0-a421f4360d2e@tr2.fastcodz.ir:52077?encryption=none&type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&sid=c1fcab160b4c8bed#filembad-433 | speed: 24.39 Mbps
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#filembad-274 | speed: 1.73 Mbps
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@direct.doctor-alan.ir:443?security=reality&encryption=none&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=1234567890abcdef#filembad-246 | 🇳🇱 speed: 12.00 Mbps
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#ProxyMtpVPN-235 | 🇨🇦 speed: 3.98 Mbps
+ss://Y2hhY2hh`M`jAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.146.222:1080#filembad-74 | 🇦🇹 speed: 9.70 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2JXY0N0VFZYdVptZ2RLTGRLSjJ4ZmRVUldDNHc5Tg@coco3.farajet.net:3030?#ProxyMtpVPN-49 | speed: 12.82 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#filembad-41 | speed: 9.26 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38:1080#filembad-39 | speed: 8.14 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#filembad-32 | speed: 6.23 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@188.119.149.27:1080#filembad-31 | speed: 12.16 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#filembad-30 | speed: 11.63 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@184.75.221.134:1080#filembad-29 | speed: 7.40 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.128.108:1080#filembad-22 | speed: 11.87 Mbps
