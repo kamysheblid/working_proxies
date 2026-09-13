@@ -1,12 +1,12 @@
-http://None@195.123.212.87:3056?tls=false#%F0%9F%87%B1%F0%9F%87%BBLV-195.123.212.87-0539 | speed: 10.80 Mbps
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.64:2085?type=grpc&mode=multi&serviceName=vless#filembad-383 | speed: 5.85 Mbps
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.64:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#filembad-382 | speed: 6.05 Mbps
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#filembad-381 | speed: 7.76 Mbps
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#filembad-380 | speed: 5.97 Mbps
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&mode=multi&authority=&serviceName=vless#filembad-379 | speed: 4.51 Mbps
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#filembad-378 | speed: 6.17 Mbps
-vless://a1d1b142-17c5-4472-99de-df220df4d4fb@37.221.110.4:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#filembad-322 | speed: 6.66 Mbps
-vless://a1d1b142-17c5-4472-99de-df220df4d4fb@37.221.110.4:2085?encryption=none&type=grpc&serviceName=vless&security=none&mode=gun#filembad-321 | speed: 5.88 Mbps
-vless://a1d1b142-17c5-4472-99de-df220df4d4fb@37.221.110.3:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#filembad-320 | speed: 4.70 Mbps
-vless://a1d1b142-17c5-4472-99de-df220df4d4fb@104.143.223.65:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#filembad-319 | speed: 4.82 Mbps
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-58 | 🇩🇪 speed: 3.81 Mbps
+http://None@195.123.212.87:3056?tls=false#%F0%9F%87%B1%F0%9F%87%BBLV-195.123.212.87-0539 | speed: 10.25 Mbps
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.64:2085?type=grpc&mode=multi&serviceName=vless#filembad-383 | speed: 7.52 Mbps
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.64:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#filembad-382 | speed: 6.73 Mbps
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#filembad-381 | speed: 5.15 Mbps
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#filembad-380 | speed: 6.22 Mbps
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&mode=multi&authority=&serviceName=vless#filembad-379 | speed: 5.53 Mbps
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#filembad-378 | speed: 5.34 Mbps
+vless://a1d1b142-17c5-4472-99de-df220df4d4fb@37.221.110.4:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#filembad-322 | speed: 7.01 Mbps
+vless://a1d1b142-17c5-4472-99de-df220df4d4fb@37.221.110.4:2085?encryption=none&type=grpc&serviceName=vless&security=none&mode=gun#filembad-321 | speed: 5.93 Mbps
+vless://a1d1b142-17c5-4472-99de-df220df4d4fb@37.221.110.3:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#filembad-320 | 🇨🇦 speed: 7.39 Mbps
+vless://a1d1b142-17c5-4472-99de-df220df4d4fb@104.143.223.65:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#filembad-319 | 🇺🇦 speed: 6.19 Mbps
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#canfingV2rayNG-59 | speed: 9.86 Mbps
