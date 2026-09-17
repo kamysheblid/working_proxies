@@ -1,5 +1,2 @@
-vmess://eyJhZGQiOiIxMzkuMjguMjQwLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY2MzYxYWY4LWJiOGYtNDYwOS1iZjVkLTNmYzBmNjg4ZjQ3YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NiIsInBzIjoiZmlsZW1iYWQtNDQ3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== | speed: 1.93 Mbps
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?security=none&encryption=none&headerType=none&type=tcp#filembad-280 | 🇳🇱 speed: 6.89 Mbps
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?encryption=none&security=none&type=tcp#filembad-279 | 🇳🇱 speed: 7.13 Mbps
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-87 | speed: 16.83 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@139.28.240.68:1080#filembad-20 | speed: 13.14 Mbps
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#filembad-186 | speed: 2.95 Mbps
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-87 | 🇩🇪 speed: 14.72 Mbps
