@@ -1,6 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22223?security=none&encryption=none&headerType=none&type=tcp#filembad-395 | speed: 3.63 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22223?encryption=none&security=none&type=tcp#filembad-394 | speed: 3.84 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-393 | speed: 3.43 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22222?encryption=none&security=none&type=tcp#filembad-392 | speed: 3.71 Mbps
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#canfingV2rayNG-88 | speed: 12.22 Mbps
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-87 | speed: 7.35 Mbps
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-87 | speed: 15.22 Mbps
