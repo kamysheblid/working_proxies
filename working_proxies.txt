@@ -1,5 +1,6 @@
-http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0495 | speed: 15.33 Mbps
-http://@45.132.252.25:49156?tls=false#%F0%9F%87%B7%F0%9F%87%BARU-45.132.252.25-0524 | speed: 15.72 Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#filembad-192 | speed: 10.86 Mbps
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-91 | speed: 16.56 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@139.28.240.68:1080?#filembad-28 | speed: 6.39 Mbps
+http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0495 | speed: 8.65 Mbps
+http://@45.132.252.25:49156?tls=false#%F0%9F%87%B7%F0%9F%87%BARU-45.132.252.25-0524 | speed: 13.70 Mbps
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?path=%2F&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=xhttp&sni=www.hp.com#filembad-123 | speed: 16.93 Mbps
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=xhttp&sni=www.hp.com#filembad-121 | speed: 14.29 Mbps
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-78 | speed: 16.88 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@139.28.240.68:1080?#filembad-21 | speed: 11.09 Mbps
