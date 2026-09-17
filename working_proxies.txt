@@ -1,9 +1,8 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-375 | speed: 10.90 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.212.72:22222?encryption=none&security=none&type=tcp#filembad-374 | speed: 9.46 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22223?encryption=none&security=none&type=tcp#filembad-370 | speed: 5.46 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-369 | speed: 5.35 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22222?encryption=none&security=none&type=tcp#filembad-368 | speed: 6.01 Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#filembad-183 | 🇷🇺 speed: 2.64 Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#filembad-182 | 🇷🇺 speed: 2.93 Mbps
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-86 | speed: 6.57 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@139.28.240.68:1080#filembad-23 | speed: 3.78 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22223?encryption=none&security=none&type=tcp#filembad-370 | speed: 4.90 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-369 | speed: 4.27 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22222?encryption=none&security=none&type=tcp#filembad-368 | 🇫🇷 speed: 4.48 Mbps
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#canfingV2rayNG-87 | speed: 8.75 Mbps
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#ProxyMtpVPN-86 | 🇩🇪 speed: 3.59 Mbps
+vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?mode=gun&security=reality&encryption=none&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&fp=firefox&type=grpc&serviceName=shiforgrpc&sni=cloudflare.com&sid=b4e3b0b55b8dc75b#filembad-84 | 🇳🇱 speed: 6.38 Mbps
+vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&fp=firefox&type=grpc&serviceName=shiforgrpc&sni=cloudflare.com&sid=b4e3b0b55b8dc75b#filembad-83 | speed: 7.00 Mbps
+vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&sid=b4e3b0b55b8dc75b&type=grpc&authority=&serviceName=shiforgrpc&mode=gun#filembad-82 | 🇳🇱 speed: 7.16 Mbps
