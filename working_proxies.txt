@@ -1,2 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-390 | speed: 9.02 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22222?security=&encryption=none&headerType=&type=tcp#filembad-389 | speed: 6.78 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22222?security=&encryption=none&headerType=&type=tcp#filembad-389 | speed: 2.76 Mbps
