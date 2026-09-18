@@ -1,8 +1,5 @@
-http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0526 | speed: 11.71 Mbps
-vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 6.97 Mbps
-vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0= | speed: 6.45 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22224?encryption=none&security=none&type=tcp&headerType=none#filembad-390 | speed: 5.57 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22224?encryption=none&security=none&type=tcp#filembad-389 | speed: 5.65 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-388 | speed: 5.57 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?encryption=none&security=none&type=tcp#filembad-387 | speed: 5.09 Mbps
-vless://c840f4a7-85dd-4fda-ad81-e6e1cc7bb3dd@207.148.118.108:443?security=reality&encryption=none&pbk=iXxVpLLyyqGkuoaKpEB6iWcWkj4gOLoyCOYKyLQdaDY&fp=chrome&spx=/&type=grpc&sni=www.canva.com&sid=41a923dd#filembad-335 | speed: 4.93 Mbps
+http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0526 | speed: 11.94 Mbps
+vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 6.84 Mbps
+vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0= | speed: 5.78 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22222?security=&encryption=none&headerType=&type=tcp#filembad-391 | speed: 14.18 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@5.75.192.44:1080?#filembad-9 | speed: 12.41 Mbps
