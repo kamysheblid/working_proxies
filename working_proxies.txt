@@ -1,6 +1,4 @@
-http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0526 | speed: 15.15 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22224?encryption=none&security=none&type=tcp#filembad-361 | speed: 10.87 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22224?encryption=none&security=none&type=tcp#filembad-352 | speed: 4.64 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22222?encryption=none&security=none&type=tcp#filembad-350 | speed: 14.27 Mbps
-vless://e0bc6cd5-892b-4b4c-80e4-88ee92e05dc7@188.137.227.194:30393?security=reality&encryption=none&pbk=DiPkDPf7ldR7GvXWLo0j7s7IsdvDZrOUfKHVmHO46mM&headerType=none&fp=chrome&spx=%2F271e254e11440ab&type=tcp&sni=play-apps-features.googleusercontent.com&sid=8559#filembad-343 | speed: 1.82 Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#filembad-179 | 🇷🇺 speed: 4.15 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22224?encryption=none&security=none&type=tcp#filembad-384 | speed: 13.51 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-383 | speed: 11.74 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?encryption=none&security=none&type=tcp#filembad-382 | speed: 7.79 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@5.75.192.44:1080?#filembad-11 | speed: 13.55 Mbps
