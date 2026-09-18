@@ -1,14 +1,6 @@
-http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0526 | 🇩🇪 speed: 15.00 Mbps
-vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 7.09 Mbps
-vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0= | speed: 6.17 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22224?encryption=none&security=none&type=tcp#filembad-384 | speed: 13.58 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-383 | speed: 7.64 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?encryption=none&security=none&type=tcp#filembad-382 | speed: 8.43 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22224?security=none&type=tcp#filembad-373 | speed: 6.14 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22224?encryption=none&security=none&type=tcp#filembad-372 | speed: 9.60 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22223?encryption=none&security=none&type=tcp#filembad-371 | speed: 10.49 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22222?encryption=none&security=none&type=tcp#filembad-370 | 🇫🇷 speed: 8.51 Mbps
-vless://c840f4a7-85dd-4fda-ad81-e6e1cc7bb3dd@207.148.118.108:443?security=reality&encryption=none&pbk=iXxVpLLyyqGkuoaKpEB6iWcWkj4gOLoyCOYKyLQdaDY&fp=chrome&spx=/&type=grpc&sni=www.canva.com&sid=41a923dd#filembad-328 | speed: 5.09 Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#filembad-178 | 🇷🇺 speed: 8.80 Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#filembad-177 | 🇷🇺 speed: 6.27 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@5.75.192.44:1080?#filembad-11 | speed: 5.04 Mbps
+http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0526 | speed: 10.76 Mbps
+vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 6.65 Mbps
+vmess://eyJhZGQiOiI0NS4zOS4zMy4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZDY5OTdjZi03ODU2LTRhYWItODVlNS1mMjIxNjllNTZlNjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQzMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0= | speed: 6.57 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22224?encryption=none&security=none&type=tcp#filembad-384 | 🇫🇷 speed: 14.12 Mbps
+vless://c840f4a7-85dd-4fda-ad81-e6e1cc7bb3dd@207.148.118.108:443?security=reality&encryption=none&pbk=iXxVpLLyyqGkuoaKpEB6iWcWkj4gOLoyCOYKyLQdaDY&fp=chrome&spx=/&type=grpc&sni=www.canva.com&sid=41a923dd#filembad-328 | 🇸🇬 speed: 4.99 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@139.28.240.68:1080?#filembad-22 | speed: 2.55 Mbps
