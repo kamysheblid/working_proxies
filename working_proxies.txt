@@ -1,3 +1,7 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22224?security=none&type=tcp#filembad-373 | 🇫🇷 speed: 12.00 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22224?encryption=none&security=none&type=tcp#filembad-372 | 🇫🇷 speed: 11.20 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@5.75.192.44:1080?#filembad-11 | speed: 13.79 Mbps
+http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0526 | 🇩🇪 speed: 13.16 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22224?encryption=none&security=none&type=tcp#filembad-384 | 🇫🇷 speed: 13.33 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-383 | speed: 7.29 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22222?encryption=none&security=none&type=tcp#filembad-382 | 🇫🇷 speed: 5.29 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22224?security=none&type=tcp#filembad-373 | speed: 12.96 Mbps
+vless://c840f4a7-85dd-4fda-ad81-e6e1cc7bb3dd@207.148.118.108:443?security=reality&encryption=none&pbk=iXxVpLLyyqGkuoaKpEB6iWcWkj4gOLoyCOYKyLQdaDY&fp=chrome&spx=/&type=grpc&sni=www.canva.com&sid=41a923dd#filembad-328 | 🇸🇬 speed: 4.74 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@5.75.192.44:1080?#filembad-11 | speed: 7.00 Mbps
