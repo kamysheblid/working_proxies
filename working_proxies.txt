@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNjNhZWUyZWQxMTI0Mjg1YjVkOGE4YjA0OWUyNGNiYQ==@107.174.88.128:443#%F0%9F%87%BA%F0%9F%87%B8US-107.174.88.128-0426 | 🇺🇸 speed: 5.98 Mbps
-http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0498 | speed: 12.56 Mbps
+http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0498 | speed: 13.46 Mbps
+vless://b2cddf0c-4b1e-4c65-9457-8dd331c9fc41@185.204.171.83:14120?security=none&encryption=none&headerType=none&type=tcp#filembad-296 | 🇩🇪 speed: 2.70 Mbps
+vless://b2cddf0c-4b1e-4c65-9457-8dd331c9fc41@185.204.171.83:14120?encryption=none&packetEncoding=xudp#filembad-295 | 🇩🇪 speed: 2.12 Mbps
