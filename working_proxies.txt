@@ -1,2 +1,0 @@
-vless://b2593749-691c-428c-9481-14979cba3446@188.114.97.6:443?path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#ProxyMtpVPN-313 | 🇨🇦 speed: 6.70 Mbps
-vless://9af3f593-e81b-46a2-a49d-ec108fe95c8f@tun.finland.quickpl.ir:9091?security=&encryption=mlkem768x25519plus.native.0rtt.jyflF0RHRYv7QHkxAwAK4c49BDolRTl6P5o07q9mbnE&headerType=none&type=tcp#filembad-245 | speed: 7.78 Mbps
