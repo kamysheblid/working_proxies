@@ -1,3 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-36.224.141.124-0118 | 🇹🇼 speed: 4.04 Mbps
-vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.58:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#filembad-273 | speed: 13.63 Mbps
-vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.58:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#filembad-272 | speed: 13.47 Mbps
