@@ -1,4 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.231.13:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-383 | speed: 9.50 Mbps
-vless://8dc3a9ee-51a6-4737-c40a-472246303713@20.78.4.41:443?security=none&encryption=none&headerType=none&type=tcp#filembad-247 | speed: 5.06 Mbps
-vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#ProxyMtpVPN-215 | speed: 7.00 Mbps
-vless://64c2bc5c-7534-4359-9b1e-e1dce5a380cd@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-199 | speed: 10.01 Mbps
+vless://63aaea7f-2847-4f41-afab-0836b1cf79d9@me1.movieseryalirani.ir:443?security=reality&encryption=none&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&headerType=none&fp=firefox&type=tcp&sni=matrix-client.matrix.org&sid=8d814a#filembad-195 | 🇫🇮 speed: 11.59 Mbps
+vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?path=%2F&security=none&encryption=none&type=ws#filembad-113 | speed: 3.51 Mbps
