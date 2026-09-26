@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY=@namrcg001640lrm.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-125.224.202.118-0383 | 🇹🇼 speed: 2.51 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjU2YWVhYS04ZTJkLTRiZGYtYjFkNy0yMzNlY2NhMTVmNTY=@namrcg001640lrm.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-125.224.202.118-0600 | speed: 3.86 Mbps
-http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0435 | 🇩🇪 speed: 17.18 Mbps
-vless://63aaea7f-2847-4f41-afab-0836b1cf79d9@me1.movieseryalirani.ir:443?security=reality&encryption=none&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&headerType=none&fp=firefox&type=tcp&sni=matrix-client.matrix.org&sid=8d814a#filembad-193 | 🇫🇮 speed: 2.47 Mbps
+http://None@103.237.102.191:11111?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-103.237.102.191-0435 | 🇩🇪 speed: 16.13 Mbps
