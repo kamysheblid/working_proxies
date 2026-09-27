@@ -1,2 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0130 | 🇿🇦 speed: 1.75 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22224?encryption=none&security=none&type=tcp#filembad-396 | speed: 13.49 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0130 | speed: 2.47 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22224?encryption=none&security=none&type=tcp#filembad-396 | 🇬🇧 speed: 13.56 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-395 | 🇬🇧 speed: 12.56 Mbps
+vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@dl2.musicworldtg.com:2018?encryption=none&security=reality&type=tcp&headerType=none&sni=gemini.com&fp=chrome&pbk=Sn8z3wbt2Zpoo3mO3HLW6TZTjN8231Ylka7apFNb2X0&sid=cd5f260bcdd9c92d#filembad-261 | speed: 3.59 Mbps
+vless://162ff214-21c8-4963-a80a-6200cbad787e@xn--gabjkk-hta.bizimoglan.ir:4060?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.0MBuXdIHo3Oja0bIySO5Y0xBalo340cN5ZJLM5F-Jnw&host=play.google.com&type=httpupgrade#filembad-88 | speed: 13.93 Mbps
+vless://162ff214-21c8-4963-a80a-6200cbad787e@rfr2svuxvm.paslanmaz.ir:4060?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.0MBuXdIHo3Oja0bIySO5Y0xBalo340cN5ZJLM5F-Jnw&host=play.google.com&type=httpupgrade#filembad-86 | speed: 13.54 Mbps
