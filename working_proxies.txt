@@ -1,5 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0130 | 🇿🇦 speed: 2.77 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22224?encryption=none&security=none&type=tcp#filembad-396 | speed: 12.53 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-395 | speed: 8.13 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22222?encryption=none&security=none&type=tcp#filembad-394 | speed: 14.31 Mbps
-vless://5463f486-3cbf-4d68-9054-b8d12b89d8fd@str.paydayloansmesquitetx.com:2565?path=%2Fapi%2Fv1%2Fgpu-stream%2Fsocket%3Fed%3D2560&security=none&encryption=mlkem768x25519plus.native.0rtt.OZkVYz6Uu5zyCKee6bqFh5SbH0yByTD-2jaNO0Y5Uyo&host=play.google.com&type=ws#filembad-206 | 🇹🇷 speed: 11.55 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0130 | 🇿🇦 speed: 1.75 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.172.254:22224?encryption=none&security=none&type=tcp#filembad-396 | speed: 13.49 Mbps
