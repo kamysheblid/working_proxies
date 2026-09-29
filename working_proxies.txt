@@ -1,3 +1,2 @@
-vless://bb1cb507-6b2a-41ef-8e24-06a422eb7e5a@264572b2539ab597.RaVEnlO.iR:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#filembad-358 | speed: 14.55 Mbps
-vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@fr.hosting-96.ir:4433?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.A1jcdie8cN-NNIxTTGYdg73QZRTfu2kYvqwEsQGeqT8&host=amd.com&type=ws#filembad-226 | speed: 4.57 Mbps
-ss://YWVzLTEyOC1nY206ZjU0ZjI2MGYxMjhkMTMxMTExODNmNGNhNDA4ZTc1YWM@64.74.162.52:18305#filembad-16 | 🇺🇸 speed: 4.00 Mbps
+vless://bb1cb507-6b2a-41ef-8e24-06a422eb7e5a@264572b2539ab597.RaVEnlO.iR:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#filembad-358 | speed: 14.10 Mbps
+ss://YWVzLTEyOC1nY206ZjU0ZjI2MGYxMjhkMTMxMTExODNmNGNhNDA4ZTc1YWM@64.74.162.52:18305#filembad-16 | 🇺🇸 speed: 7.39 Mbps
