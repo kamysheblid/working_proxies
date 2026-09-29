@@ -1,11 +1,9 @@
-vless://bb1cb507-6b2a-41ef-8e24-06a422eb7e5a@264572b2539ab597.RaVEnlO.iR:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#filembad-367 | speed: 12.91 Mbps
-vless://7c59a119-d02e-4944-8344-b7b138446cc4@portal_s.aitseller.ir:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.OuI4wgW7Aaz9w1LOR8URh_AzR3IvnR1y7DmkBayGJCs&pbk=7EKv-3zTkqhIQLFJ7GfjiKfSC2aYoKd_RG2JGx9gznc&headerType=none&fp=qq&type=tcp&sni=oecd.ai&sid=e6b05cc8816673e3#filembad-267 | speed: 6.35 Mbps
-vless://7c59a119-d02e-4944-8344-b7b138446cc4@ghj.pexfima.ir:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.OuI4wgW7Aaz9w1LOR8URh_AzR3IvnR1y7DmkBayGJCs&pbk=7EKv-3zTkqhIQLFJ7GfjiKfSC2aYoKd_RG2JGx9gznc&headerType=none&fp=chrome&type=tcp&sni=oecd.ai&sid=e6b05cc8816673e3#filembad-265 | speed: 13.81 Mbps
-vless://7c59a119-d02e-4944-8344-b7b138446cc4@ghj.pexfima.ir:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.-zbR_3xyxyquhAaBk24Xi4_jYSNfL-i41tuVRkyDwgQ&pbk=wQ-zRO8qaQAvHSNy-5a75ZmgUDIJrHLfJaGWcR3501E&headerType=none&fp=chrome&type=tcp&sni=deepai.org&sid=7ebb6b55123c0af4#filembad-264 | speed: 6.83 Mbps
-vless://7c59a119-d02e-4944-8344-b7b138446cc4@gef.pexfima.ir:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=www.ibm.com&sid=5e06032a9c448538#filembad-263 | speed: 13.38 Mbps
-vless://7c59a119-d02e-4944-8344-b7b138446cc4@gef.pexfima.ir:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.OuI4wgW7Aaz9w1LOR8URh_AzR3IvnR1y7DmkBayGJCs&pbk=7EKv-3zTkqhIQLFJ7GfjiKfSC2aYoKd_RG2JGx9gznc&headerType=none&fp=chrome&type=tcp&sni=oecd.ai&sid=e6b05cc8816673e3#filembad-262 | speed: 10.86 Mbps
-vless://70513150-d637-4328-a0dc-1e7732f9f0a8@5.223.41.31:80?path=%2F&security=&encryption=none&type=ws#filembad-244 | speed: 5.79 Mbps
+vless://c2920c42-bba4-436e-98c3-01c32a864270@45.157.116.181:57706?encryption=none&fp=firefox&pbk=A3p-NTpZgfbGtP1jjW3JeMyZEJDbgKsThXw_Ud_TsgE&security=reality&sid=5798b5c2e64b50&sni=rpc.anker.com&spx=%2F508ba04cbacab21&type=tcp#filembad-384 | speed: 4.46 Mbps
+vless://c2920c42-bba4-436e-98c3-01c32a864270@45.157.116.181:40901?encryption=none&fp=firefox&pbk=qiwKLA8IqfRvIYJr-MGFG7jJnY0ViwnGS7dU6nkXLxM&security=reality&sid=bf0474&sni=play.google.com&spx=%2F975257380d0d03b&type=tcp#filembad-383 | speed: 3.80 Mbps
+vless://bb1cb507-6b2a-41ef-8e24-06a422eb7e5a@264572b2539ab597.RaVEnlO.iR:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=play.google.com#filembad-367 | speed: 13.64 Mbps
+vless://70513150-d637-4328-a0dc-1e7732f9f0a8@5.223.41.31:80?path=%2F&security=&encryption=none&type=ws#filembad-244 | speed: 5.75 Mbps
 vless://70513150-d637-4328-a0dc-1e7732f9f0a8@5.223.41.31:80?encryption=none&security=none&type=ws&path=%2F#filembad-243 | speed: 5.76 Mbps
-ss://YWVzLTEyOC1nY206YjE1NjIzZDY1ZDhjMjA5NjUwYmY2ZDZkZTY1ODA2OTc@74.201.177.28:19959#filembad-22 | 🇺🇸 speed: 6.82 Mbps
-ss://YWVzLTEyOC1nY206NjJkZDc1YmE5NDQ5NDdkNGNhOTgzY2YxNjc5YjM3OTc@173.234.25.90:15240#filembad-20 | 🇺🇸 speed: 6.81 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTVJ5bzFla2ZKMGV4R25BVmNLZTZn@p2tun1.greewebservices.ir:1010#filembad-6 | speed: 1.85 Mbps
+vless://40f2aa9a-05cc-44aa-bd79-5e973046c062@206.1.99.63:49985?security=reality&encryption=none&pbk=sw1jKj94Ko31_R9VrRAPQZJxoUY9_HRkvEA_-O1q6iE&headerType=&fp=chrome&spx=%2Facf016f7fcf8f80&type=tcp&sni=play.google.com&sid=5f61974010c2#filembad-167 | 🇹🇷 speed: 3.17 Mbps
+ss://YWVzLTEyOC1nY206YjE1NjIzZDY1ZDhjMjA5NjUwYmY2ZDZkZTY1ODA2OTc@74.201.177.28:19959#filembad-22 | 🇺🇸 speed: 6.78 Mbps
+ss://YWVzLTEyOC1nY206NjJkZDc1YmE5NDQ5NDdkNGNhOTgzY2YxNjc5YjM3OTc@173.234.25.90:15240#filembad-20 | 🇺🇸 speed: 5.97 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTVJ5bzFla2ZKMGV4R25BVmNLZTZn@p2tun4.greewebservices.ir:1040#filembad-9 | speed: 12.25 Mbps
