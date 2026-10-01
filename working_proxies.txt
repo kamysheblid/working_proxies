@@ -1,1 +1,2 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.125.162:62145?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#filembad-268 | speed: 4.99 Mbps
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#filembad-208 | 🇷🇺 speed: 2.55 Mbps
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#filembad-196 | 🇷🇺 speed: 2.28 Mbps
