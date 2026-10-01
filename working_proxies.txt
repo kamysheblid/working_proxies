@@ -1,2 +1,1 @@
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#filembad-208 | speed: 5.18 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVpWm5oM2xaVXQ1ejVPemFBZzNNME9nYk1IbmM5aw@88.218.18.202:53211#filembad-3 | speed: 5.27 Mbps
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.7:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#filembad-206 | speed: 3.62 Mbps
