@@ -1,4 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0131 | 🇿🇦 speed: 6.19 Mbps
-vless://ebaac78a-64f7-4d6a-8897-a4b420069378@ljbzb288i.paslanmaz.ir:15329?security=reality&encryption=mlkem768x25519plus.native.0rtt.JDYZ4e8_tG2z6YYKAVN4iML9xyBBVHdfNhS9TaUYZkY&pbk=SrV7pMnlp2jszuqXq90kMFVzfWHeOsXXxmvJe6CZkDE&headerType=none&type=tcp&sni=play.google.com&sid=239ef5f8f9fbb629#filembad-448 | speed: 12.89 Mbps
-vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?encryption=none&type=tcp&headerType=none&security=none#filembad-303 | speed: 3.99 Mbps
-vless://2ec4b7a7-2b04-494c-a1a1-d5afc5985377@206.1.103.51:43314?security=none&encryption=none&headerType=none&type=tcp#filembad-112 | 🇹🇷 speed: 2.17 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0131 | 🇿🇦 speed: 5.68 Mbps
+vless://ebaac78a-64f7-4d6a-8897-a4b420069378@ljbzb288i.paslanmaz.ir:15329?security=reality&encryption=mlkem768x25519plus.native.0rtt.JDYZ4e8_tG2z6YYKAVN4iML9xyBBVHdfNhS9TaUYZkY&pbk=SrV7pMnlp2jszuqXq90kMFVzfWHeOsXXxmvJe6CZkDE&headerType=none&type=tcp&sni=play.google.com&sid=239ef5f8f9fbb629#filembad-436 | 🇳🇱 speed: 11.55 Mbps
+vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?security=none&encryption=none&headerType=none&type=tcp#filembad-288 | speed: 4.07 Mbps
+vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?encryption=none&type=tcp&headerType=none&security=none#filembad-287 | speed: 16.45 Mbps
+vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-243 | speed: 8.99 Mbps
