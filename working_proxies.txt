@@ -1,2 +1,4 @@
-vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl1.povrak.ir:28095?security=none&encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&headerType=none&type=tcp#filembad-144 | 🇫🇮 speed: 13.17 Mbps
-ss://YWVzLTEyOC1nY206NTBjZTJhYzE3N2Q4ZDhjZGFkNmI0YTY4NzM5ZTJlYTA@66.23.202.50:13623#filembad-26 | speed: 9.01 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0146 | 🇿🇦 speed: 6.45 Mbps
+vless://2e99b303-f750-4782-954c-0aae539e71f8@5.160.110.225:8443?encryption=mlkem768x25519plus.native.0rtt.ckQiT2oWFrbh7Vrmw9T6KuaeGeRqdMxCw-R1EhK1KSY&security=none&type=tcp&headerType=none#filembad-117 | 🇮🇷 speed: 32.66 Mbps
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.210:16995#filembad-27 | speed: 8.24 Mbps
+ss://YWVzLTEyOC1nY206NTBjZTJhYzE3N2Q4ZDhjZGFkNmI0YTY4NzM5ZTJlYTA@66.23.202.50:13623#filembad-26 | 🇺🇸 speed: 4.76 Mbps
