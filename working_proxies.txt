@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0144 | 🇿🇦 speed: 6.32 Mbps
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-198 | speed: 11.93 Mbps
+vless://2e99b303-f750-4782-954c-0aae539e71f8@5.160.110.225:8443?encryption=mlkem768x25519plus.native.0rtt.ckQiT2oWFrbh7Vrmw9T6KuaeGeRqdMxCw-R1EhK1KSY&security=none&type=tcp&headerType=none#filembad-123 | 🇮🇷 speed: 14.04 Mbps
