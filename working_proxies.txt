@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0144 | 🇿🇦 speed: 5.86 Mbps
-vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-227 | speed: 8.16 Mbps
-vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-226 | speed: 10.86 Mbps
-vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-198 | speed: 15.33 Mbps
-vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-197 | speed: 11.46 Mbps
-vless://2e99b303-f750-4782-954c-0aae539e71f8@5.160.110.225:8443?encryption=mlkem768x25519plus.native.0rtt.ckQiT2oWFrbh7Vrmw9T6KuaeGeRqdMxCw-R1EhK1KSY&security=none&type=tcp&headerType=none#filembad-123 | 🇮🇷 speed: 11.03 Mbps
-vless://1e645c10-a7d2-4eed-908a-3427bf167964@tot5.povrak.ir:15952?security=none&encryption=mlkem768x25519plus.native.0rtt.lPXVWoupPp8pw-foTUSjXNYhKvrJRnt_O6h1SUGpVG0&headerType=none&type=tcp#filembad-86 | 🇹🇷 speed: 4.83 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0144 | 🇿🇦 speed: 5.76 Mbps
+vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-227 | speed: 2.49 Mbps
+vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-226 | speed: 9.49 Mbps
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-198 | speed: 14.87 Mbps
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-197 | speed: 14.03 Mbps
+vless://2e99b303-f750-4782-954c-0aae539e71f8@5.160.110.225:8443?encryption=mlkem768x25519plus.native.0rtt.ckQiT2oWFrbh7Vrmw9T6KuaeGeRqdMxCw-R1EhK1KSY&security=none&type=tcp&headerType=none#filembad-123 | 🇮🇷 speed: 40.42 Mbps
+vless://1e645c10-a7d2-4eed-908a-3427bf167964@tot5.povrak.ir:15952?security=none&encryption=mlkem768x25519plus.native.0rtt.lPXVWoupPp8pw-foTUSjXNYhKvrJRnt_O6h1SUGpVG0&headerType=none&type=tcp#filembad-86 | speed: 5.85 Mbps
