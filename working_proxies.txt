@@ -1,2 +1,2 @@
-vless://8ceac6dc-a369-4283-8b36-3bcd15615334@91.224.75.253:35737?path=%2F&security=none&encryption=none&type=ws#filembad-243 | speed: 5.02 Mbps
-ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.210:16995#filembad-32 | speed: 8.43 Mbps
+vless://1e645c10-a7d2-4eed-908a-3427bf167964@tot5.povrak.ir:15952?security=none&encryption=mlkem768x25519plus.native.0rtt.lPXVWoupPp8pw-foTUSjXNYhKvrJRnt_O6h1SUGpVG0&headerType=none&type=tcp#filembad-95 | speed: 3.66 Mbps
+ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.210:16995#filembad-32 | speed: 8.32 Mbps
