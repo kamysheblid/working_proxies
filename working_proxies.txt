@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0146 | speed: 5.91 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0146 | speed: 6.38 Mbps
+vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@Bulbul.color-panel.ir:8080?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#filembad-451 | speed: 1.72 Mbps
