@@ -1,3 +1,1 @@
-vless://4c03eb79-dc87-4bb6-942d-9cd238ad852e@46.8.69.45:8443?security=none&encryption=none&headerType=none&type=tcp#filembad-154 | speed: 1.59 Mbps
-vless://2e99b303-f750-4782-954c-0aae539e71f8@5.160.110.225:8443?encryption=mlkem768x25519plus.native.0rtt.ckQiT2oWFrbh7Vrmw9T6KuaeGeRqdMxCw-R1EhK1KSY&security=none&type=tcp&headerType=none#filembad-123 | speed: 8.72 Mbps
-ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.210:16995#filembad-23 | speed: 8.29 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0144 | 🇿🇦 speed: 6.32 Mbps
