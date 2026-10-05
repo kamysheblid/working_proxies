@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0178 | speed: 4.56 Mbps
-vless://e90759b7-6454-4b3a-8453-279e6f496f3a@nl1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&fp=firefox&type=grpc&serviceName=grpc&sni=nl1.jetservaki.fit&sid=884b938083b628d2#filembad-395 | speed: 13.63 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#filembad-23 | 🇳🇱 speed: 14.73 Mbps
+vless://e90759b7-6454-4b3a-8453-279e6f496f3a@nl1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&fp=firefox&type=grpc&serviceName=grpc&sni=nl1.jetservaki.fit&sid=884b938083b628d2#filembad-395 | 🇳🇱 speed: 12.75 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#filembad-23 | speed: 14.67 Mbps
