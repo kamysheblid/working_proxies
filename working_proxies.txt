@@ -1,3 +1,3 @@
-vless://e90759b7-6454-4b3a-8453-279e6f496f3a@us1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=wLANFlHX4PxKF73pKoFgd7gdd6myrYhPEn9FipTTFQQ&fp=firefox&type=grpc&serviceName=grpc&sni=us1.jetservaki.fit&sid=f01acad2ba23e527#filembad-425 | speed: 7.42 Mbps
-vless://e90759b7-6454-4b3a-8453-279e6f496f3a@84.32.71.124:443?mode=gun&security=reality&encryption=none&pbk=wLANFlHX4PxKF73pKoFgd7gdd6myrYhPEn9FipTTFQQ&fp=firefox&type=grpc&serviceName=grpc&sni=us1.jetservaki.fit&sid=f01acad2ba23e527#filembad-423 | speed: 7.82 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#filembad-29 | speed: 11.85 Mbps
+vless://e90759b7-6454-4b3a-8453-279e6f496f3a@us1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=wLANFlHX4PxKF73pKoFgd7gdd6myrYhPEn9FipTTFQQ&fp=firefox&type=grpc&serviceName=grpc&sni=us1.jetservaki.fit&sid=f01acad2ba23e527#filembad-425 | speed: 7.97 Mbps
+vless://e90759b7-6454-4b3a-8453-279e6f496f3a@84.32.71.124:443?mode=gun&security=reality&encryption=none&pbk=wLANFlHX4PxKF73pKoFgd7gdd6myrYhPEn9FipTTFQQ&fp=firefox&type=grpc&serviceName=grpc&sni=us1.jetservaki.fit&sid=f01acad2ba23e527#filembad-423 | speed: 7.07 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#filembad-29 | speed: 13.71 Mbps
