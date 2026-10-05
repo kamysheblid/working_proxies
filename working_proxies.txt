@@ -1,2 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0178 | speed: 6.50 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#filembad-23 | speed: 14.60 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0178 | 🇿🇦 speed: 6.32 Mbps
+vless://e90759b7-6454-4b3a-8453-279e6f496f3a@84.32.71.124:443?mode=gun&security=reality&encryption=none&pbk=wLANFlHX4PxKF73pKoFgd7gdd6myrYhPEn9FipTTFQQ&fp=firefox&type=grpc&serviceName=grpc&sni=us1.jetservaki.fit&sid=f01acad2ba23e527#filembad-394 | 🇺🇸 speed: 8.06 Mbps
+vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?path=%2F&security=&encryption=none&host=stigmata.ir&type=ws#filembad-125 | 🇺🇸 speed: 15.50 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#filembad-23 | 🇳🇱 speed: 16.14 Mbps
