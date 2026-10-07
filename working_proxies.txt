@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?type=tcp&headerType=none#filembad-10 | speed: 14.64 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@20.101.46.229:443#filembad-7 | speed: 15.29 Mbps
+http://@152.42.170.187:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-152.42.170.187-0672 | speed: 4.77 Mbps
