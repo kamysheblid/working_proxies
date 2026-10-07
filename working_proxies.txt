@@ -1,2 +1,2 @@
-vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pannn1.global.ssl.fastly.net&path=%2F# | 🇺🇸 speed: 11.06 Mbps
-vless://8decb53d-a198-4b9b-8dfc-814a7715a062@fs.koomeh.net:443?mode=auto&path=%2Frmnwv&security=tls&encryption=none&insecure=0&host=Amiiiiiiirfjjjvgf0097.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com# | speed: 12.75 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?type=tcp&headerType=none#filembad-10 | speed: 14.64 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@20.101.46.229:443#filembad-7 | speed: 15.29 Mbps
