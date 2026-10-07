@@ -1,7 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0265 | speed: 6.28 Mbps
-vmess://ewogICAgImFkZCI6ICJjZG4uc2ZhY2cudWsiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvcjMuc2ZhY2cudWsiLAogICAgImlkIjogImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9vcjMiLAogICAgInBvcnQiOiAyMDgzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNjIuMTU5LjEzNS4yMzQtMTU0NyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9 | speed: 1.76 Mbps
-ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-2584 | 🇹🇭 speed: 3.84 Mbps
-vless://@@ZhilaVPN@@@46.225.255.204:39100?encryption=none&type=tcp&allowInsecure=1#filembad-285 | 🇩🇪 speed: 13.19 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?type=tcp&headerType=none#filembad-12 | speed: 15.16 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-11 | speed: 16.28 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@20.101.46.229:443#filembad-9 | speed: 15.47 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.042.node-for-bigairport.win:20006#%F0%9F%87%BA%F0%9F%87%B8US-44.234.111.143-2670 | 🇺🇸 speed: 6.54 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0265 | speed: 6.12 Mbps
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-2584 | 🇹🇭 speed: 3.41 Mbps
+vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&type=ws&path=%2F&host=machinemag.ir&allowInsecure=1#filembad-328 | 🇺🇸 speed: 16.09 Mbps
+vless://@@ZhilaVPN@@@46.225.255.204:39100?encryption=none&type=tcp&allowInsecure=1#filembad-285 | speed: 15.49 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?type=tcp&headerType=none#filembad-12 | speed: 16.71 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-11 | speed: 16.67 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@20.101.46.229:443#filembad-9 | speed: 16.26 Mbps
