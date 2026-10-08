@@ -1,2 +1,3 @@
-vmess://ewogICAgImFkZCI6ICI5M3Vjcm40aTBwZmZ1YWJrLnYuM2Rucy52aXAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICI5M3Vjcm40aTBwZmZ1YWJrLnYuM2Rucy52aXAiLAogICAgImlkIjogImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93cy12bWVzcyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3Ljc2LjQ0LjMyLTA3ODgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICI5M3Vjcm40aTBwZmZ1YWJrLnYuM2Rucy52aXAiCn0= | speed: 4.80 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-16 | speed: 15.76 Mbps
+vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=none&encryption=none&type=ws#filembad-397 | speed: 3.30 Mbps
+vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=&encryption=none&type=ws#filembad-396 | speed: 3.40 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-16 | speed: 16.22 Mbps
