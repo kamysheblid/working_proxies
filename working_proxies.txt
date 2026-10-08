@@ -1,3 +1,4 @@
-vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=none&encryption=none&type=ws#filembad-397 | speed: 3.30 Mbps
-vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=&encryption=none&type=ws#filembad-396 | speed: 3.40 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-16 | speed: 16.22 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0265 | 🇿🇦 speed: 4.36 Mbps
+vmess://ewogICAgImFkZCI6ICI2amR2YXJhemd1M3FxcjZxLnYuM2Rucy52aXAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLAogICAgImlkIjogImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93cy12bWVzcyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjEwLjI0LjE4MS0wNzg2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIgp9 | speed: 4.84 Mbps
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-2584 | 🇹🇭 speed: 2.11 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-16 | speed: 3.93 Mbps
