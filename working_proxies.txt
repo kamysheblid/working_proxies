@@ -1,7 +1,2 @@
-ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-2584 | speed: 3.42 Mbps
-vmess://eyJhZGQiOiIxNzMuMjQ5LjE5OC4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiWEVYRVZJTCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWw9QHVzZXJfeGV4ZXZpbCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImZpbGVtYmFkLTQ2NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 6.21 Mbps
-vmess://eyJhZGQiOiIxNzMuMjQ5LjE5OC4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiWEVYRVZJTCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWw9QHVzZXJfeGV4ZXZpbCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImZpbGVtYmFkLTQ2MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ== | speed: 6.28 Mbps
-vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?path=%2F&security=none&encryption=none&host=machinemag.ir&type=ws#filembad-352 | speed: 11.52 Mbps
-vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&type=ws&path=%2F&host=machinemag.ir&allowInsecure=1#filembad-351 | speed: 11.92 Mbps
-vless://@@ZhilaVPN@@@46.225.255.204:39100?encryption=none&type=tcp&allowInsecure=1#filembad-306 | speed: 14.52 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-17 | 🇳🇱 speed: 15.72 Mbps
+vless://@@ZhilaVPN@@@46.225.255.204:39100?encryption=none&type=tcp&allowInsecure=1#filembad-306 | 🇩🇪 speed: 12.66 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443?#filembad-17 | speed: 15.33 Mbps
