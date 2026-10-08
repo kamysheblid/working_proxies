@@ -1,2 +1,0 @@
-vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?path=%2F&security=none&encryption=none&host=machinemag.ir&type=ws#filembad-352 | speed: 12.42 Mbps
-vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&type=ws&path=%2F&host=machinemag.ir&allowInsecure=1#filembad-351 | 🇺🇸 speed: 9.99 Mbps
