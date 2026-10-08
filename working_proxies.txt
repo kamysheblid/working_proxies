@@ -1,2 +1,3 @@
-vmess://eyJhZGQiOiIxNzMuMjQ5LjE5OC4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiWEVYRVZJTCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWw9QHVzZXJfeGV4ZXZpbCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImZpbGVtYmFkLTQ3OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 6.19 Mbps
-vmess://eyJhZGQiOiIxNzMuMjQ5LjE5OC4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiWEVYRVZJTCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWw9QHVzZXJfeGV4ZXZpbCIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImZpbGVtYmFkLTQ3NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ== | speed: 6.20 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0265 | speed: 1.65 Mbps
+vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=none&encryption=none&type=ws#filembad-397 | speed: 3.57 Mbps
+vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=&encryption=none&type=ws#filembad-396 | speed: 4.03 Mbps
