@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0229 | speed: 6.48 Mbps
-ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-0452 | 🇹🇭 speed: 3.40 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&security=none&type=tcp&headerType=none#filembad-285 | 🇹🇷 speed: 23.82 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#filembad-284 | 🇹🇷 speed: 5.80 Mbps
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@geow3.nomush.ir:8081?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.fU88suAv4CG5XmqdbWhBNJhGW6Sgr-RXgy-Cj6qg2R8&pbk=Nd04wT4W9aZNg2KeuNxB_tWQ8HFzlzCo-t0CjPw9YhA&fp=chrome&type=xhttp&sni=www.resos.com&sid=d556fbd93171fe45#filembad-127 | 🇩🇪 speed: 2.42 Mbps
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@feow.nomush.ir:11497?security=reality&encryption=none&pbk=J3DhtzId04tRrOF9HmIxpv6QOGY1g6j2wJ_UtVKmimk&headerType=none&fp=qq&type=tcp&sni=dynu.com&sid=b0063cec752e829a#filembad-126 | 🇳🇱 speed: 5.22 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNHhBOG1UdWVQS2FPam9NdXg4dHRn@cdn-2d12.giftcardbazarbot.com:8243#filembad-15 | speed: 16.36 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#filembad-8 | speed: 14.95 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0229 | 🇿🇦 speed: 6.24 Mbps
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-0452 | speed: 2.87 Mbps
+vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&security=none&type=tcp&headerType=none#filembad-285 | 🇹🇷 speed: 5.33 Mbps
+vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#filembad-284 | 🇹🇷 speed: 2.97 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNHhBOG1UdWVQS2FPam9NdXg4dHRn@cdn-2d12.giftcardbazarbot.com:8243#filembad-15 | 🇩🇪 speed: 13.95 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#filembad-8 | speed: 16.12 Mbps
