@@ -1,2 +1,2 @@
-vless://92a25831-2be7-473e-bb64-ca3225a87282@sieh.varqino.ir:32211?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#filembad-271 | speed: 2.62 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#filembad-10 | 🇳🇱 speed: 5.67 Mbps
+vless://3661f782-96ab-43f1-ba97-847195fc2ecb@dns7.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#filembad-158 | speed: 13.18 Mbps
+vless://19c78abc-0f6f-4fa6-8614-0fbf0021273d@ngnix.velnix-services.ir:1081?security=reality&encryption=none&pbk=oBcBNqEqA-Iqc6VT25ZLWF0MhkZ1CSny7yWn_u1r-1Q&host=www12.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www32.velnix-services.ir&sid=fbc2f106a8cab706#filembad-103 | speed: 9.74 Mbps
