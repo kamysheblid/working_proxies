@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0132 | 🇿🇦 speed: 4.10 Mbps
-vless://92a25831-2be7-473e-bb64-ca3225a87282@sieh.varqino.ir:43311?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#filembad-272 | speed: 2.07 Mbps
-vless://92a25831-2be7-473e-bb64-ca3225a87282@opewoj.wingerdt.com:20394?mode=auto&path=%2F&security=reality&encryption=none&pbk=59Fl4mMEYwB2pOcBZzX4Bdd0OA4xG8BXjd73RtER_QQ&fp=chrome&type=xhttp&sni=aparat.com&sid=16fbfc284dcf4954#filembad-269 | speed: 2.57 Mbps
-vless://92a25831-2be7-473e-bb64-ca3225a87282@iwouehr.wingerdt.com:22113?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#filembad-266 | speed: 1.72 Mbps
-vless://92a25831-2be7-473e-bb64-ca3225a87282@iehrbdqwe.wingerdt.org:52233?mode=auto&path=%2F&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#filembad-265 | speed: 4.18 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0132 | 🇿🇦 speed: 3.45 Mbps
