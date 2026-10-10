@@ -1,7 +1,6 @@
-http://@189.51.168.165:999?tls=false#%F0%9F%87%B2%F0%9F%87%BDMX-189.51.168.165-0614 | speed: 5.94 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=none&encryption=none&type=ws#filembad-491 | 🇮🇷 speed: 11.94 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=&encryption=none&type=ws#filembad-490 | speed: 12.29 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?encryption=none&security=none&type=ws&path=%2Fwp-content4#filembad-489 | speed: 10.02 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?security=none&encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&headerType=none&type=tcp#filembad-280 | speed: 1.97 Mbps
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?encryption=none&type=tcp&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#filembad-140 | speed: 13.63 Mbps
-ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ@66.23.204.218:10675#filembad-26 | speed: 7.16 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0197 | speed: 4.19 Mbps
+vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=none&encryption=none&type=ws#filembad-486 | speed: 12.83 Mbps
+vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=&encryption=none&type=ws#filembad-485 | speed: 12.06 Mbps
+vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?encryption=none&security=none&type=ws&path=%2Fwp-content4#filembad-484 | speed: 8.95 Mbps
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?security=reality&type=tcp&sni=www3.donyumvps.tr&fp=chrome&sid=125ba3&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&encryption=none#filembad-139 | speed: 13.79 Mbps
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?encryption=none&type=tcp&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#filembad-138 | speed: 3.72 Mbps
