@@ -1,8 +1,2 @@
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=none&encryption=none&type=ws#filembad-491 | speed: 11.47 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=&encryption=none&type=ws#filembad-490 | speed: 7.66 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?encryption=none&security=none&type=ws&path=%2Fwp-content4#filembad-489 | speed: 12.06 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?security=none&encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&headerType=none&type=tcp#filembad-280 | speed: 2.14 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&security=none&type=tcp&headerType=none#filembad-279 | speed: 2.36 Mbps
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?security=reality&type=tcp&sni=www3.donyumvps.tr&fp=chrome&sid=125ba3&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&encryption=none#filembad-141 | speed: 13.12 Mbps
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?encryption=none&type=tcp&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#filembad-140 | speed: 14.60 Mbps
-ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ@66.23.204.218:10675#filembad-26 | speed: 8.00 Mbps
+http://@189.51.168.165:999?tls=false#%F0%9F%87%B2%F0%9F%87%BDMX-189.51.168.165-0614 | speed: 6.13 Mbps
+vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@geow3.nomush.ir:8081?encryption=mlkem768x25519plus.native.0rtt.fU88suAv4CG5XmqdbWhBNJhGW6Sgr-RXgy-Cj6qg2R8&security=reality&sni=www.resos.com&fp=chrome&pbk=Nd04wT4W9aZNg2KeuNxB_tWQ8HFzlzCo-t0CjPw9YhA&sid=d556fbd93171fe45&type=xhttp&path=%2F&mode=auto#filembad-119 | speed: 7.54 Mbps
