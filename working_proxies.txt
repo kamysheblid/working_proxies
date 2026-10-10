@@ -1,4 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0197 | 🇿🇦 speed: 5.06 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.042.node-for-bigairport.win:20006#%F0%9F%87%BA%F0%9F%87%B8US-35.94.211.112-0083 | speed: 6.45 Mbps
-http://@189.51.168.165:999?tls=false#%F0%9F%87%B2%F0%9F%87%BDMX-189.51.168.165-0614 | speed: 4.45 Mbps
-vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?path=%2Ffree&security=none&encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&host=iran.panelsaz.com&type=ws#filembad-362 | speed: 18.28 Mbps
+http://@189.51.168.165:999?tls=false#%F0%9F%87%B2%F0%9F%87%BDMX-189.51.168.165-0614 | speed: 5.30 Mbps
+vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=none&encryption=none&type=ws#filembad-491 | speed: 8.31 Mbps
+vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=&encryption=none&type=ws#filembad-490 | speed: 9.56 Mbps
+vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?encryption=none&security=none&type=ws&path=%2Fwp-content4#filembad-489 | speed: 8.26 Mbps
+vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?path=%2Ffree&security=&encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&host=iran.panelsaz.com&type=ws#filembad-362 | speed: 14.92 Mbps
+vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&security=none&type=ws&host=iran.panelsaz.com&path=%2Ffree#filembad-361 | speed: 23.14 Mbps
+vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#filembad-277 | speed: 2.37 Mbps
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?security=reality&type=tcp&sni=www3.donyumvps.tr&fp=chrome&sid=125ba3&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&encryption=none#filembad-141 | speed: 14.94 Mbps
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?encryption=none&type=tcp&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#filembad-140 | speed: 8.27 Mbps
+ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ@66.23.204.218:10675#filembad-26 | speed: 7.90 Mbps
