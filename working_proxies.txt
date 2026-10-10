@@ -1,3 +1,4 @@
-ss://YWVzLTEyOC1nY206bDJOaWRaYmNrTXU0UG5JSHNKVFlKZw==@www.asamping.ir:1468#%F0%9F%87%A9%F0%9F%87%AADE-13.140.91.101-0803 | speed: 3.20 Mbps
-http://@167.172.76.176:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-167.172.76.176-0643 | speed: 5.91 Mbps
-vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?path=%2Ffree&security=none&encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&host=iran.panelsaz.com&type=ws#filembad-362 | speed: 19.12 Mbps
+http://@189.51.168.165:999?tls=false#%F0%9F%87%B2%F0%9F%87%BDMX-189.51.168.165-0614 | speed: 6.17 Mbps
+vless://b6eeba72-2ce3-4576-b8c1-0ebae225c1d5@iran.panelsaz.com:2053?path=%2Ffree&security=none&encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&host=iran.panelsaz.com&type=ws#filembad-362 | speed: 17.20 Mbps
+vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?security=none&encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&headerType=none&type=tcp#filembad-261 | speed: 2.53 Mbps
+vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&security=none&type=tcp&headerType=none#filembad-260 | speed: 1.90 Mbps
