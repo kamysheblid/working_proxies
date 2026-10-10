@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0229 | speed: 5.45 Mbps
-ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-0452 | speed: 3.66 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&security=none&type=tcp&headerType=none#filembad-285 | 🇹🇷 speed: 6.35 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#filembad-8 | speed: 15.45 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.042.node-for-bigairport.win:20006#%F0%9F%87%BA%F0%9F%87%B8US-35.86.185.12-2162 | 🇺🇸 speed: 6.48 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0229 | speed: 6.48 Mbps
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-0452 | 🇹🇭 speed: 3.63 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#filembad-8 | speed: 16.52 Mbps
