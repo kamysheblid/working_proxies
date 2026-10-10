@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0197 | 🇿🇦 speed: 4.09 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-52.157.100.252-0443 | speed: 14.83 Mbps
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@feow.nomush.ir:11497?security=reality&encryption=none&pbk=J3DhtzId04tRrOF9HmIxpv6QOGY1g6j2wJ_UtVKmimk&headerType=none&fp=qq&type=tcp&sni=dynu.com&sid=b0063cec752e829a#filembad-122 | speed: 1.56 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0197 | 🇿🇦 speed: 6.34 Mbps
