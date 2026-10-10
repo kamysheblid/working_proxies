@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0197 | speed: 4.19 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=none&encryption=none&type=ws#filembad-486 | speed: 12.83 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=&encryption=none&type=ws#filembad-485 | speed: 12.06 Mbps
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?encryption=none&security=none&type=ws&path=%2Fwp-content4#filembad-484 | speed: 8.95 Mbps
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?security=reality&type=tcp&sni=www3.donyumvps.tr&fp=chrome&sid=125ba3&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&encryption=none#filembad-139 | speed: 13.79 Mbps
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@168.119.155.195:2112?encryption=none&type=tcp&security=reality&sni=www3.donyumvps.tr&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#filembad-138 | speed: 3.72 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0197 | speed: 5.58 Mbps
+vmess://eyJhZGQiOiJqcDEyMS52YXRpbG9uLmNjIiwiYWlkIjowLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBvcnQiOjEwMDAxLCJwcyI6ImZpbGVtYmFkLTQ5MSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= | speed: 5.80 Mbps
+vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@game-survival.surverssss.pro:8443?mode=gun&security=reality&encryption=none&pbk=h-lXoMXS7rllNOzX6BL8NdhZMPFxEG6GEha-LmzpY2A&type=grpc&serviceName=grpc&sni=game-survival.surverssss.pro#filembad-457 | speed: 4.53 Mbps
