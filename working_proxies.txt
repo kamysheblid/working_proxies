@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.214:16999#filembad-22 | speed: 7.39 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#filembad-8 | speed: 16.58 Mbps
+vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#filembad-279 | speed: 3.38 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#filembad-8 | speed: 16.12 Mbps
