@@ -1,7 +1,0 @@
-http://@128.199.121.61:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.121.61-0631 | speed: 5.22 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?security=none&encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&headerType=none&type=tcp#filembad-283 | speed: 15.62 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:57132?security=&encryption=mlkem768x25519plus.native.0rtt.jZmwFOCIMPQyR4dhhbhXqH1Ky9HYJXam8PK9Ak7FYCw&headerType=none&type=tcp#filembad-282 | speed: 12.13 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?security=none&encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&headerType=none&type=tcp#filembad-281 | speed: 11.29 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?security=&encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&headerType=none&type=tcp#filembad-280 | speed: 12.47 Mbps
-vless://8c8e4c33-c28c-4ea2-9aa9-43cb766edd53@api.yespanel.ir:23324?encryption=mlkem768x25519plus.native.0rtt._9x6oGTM_epkkksUku37g3-_oMcLV-bSUlFkyltNNlc&security=none&type=tcp&headerType=none#filembad-279 | speed: 12.19 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkLTJQY1hsTFpuY1h2a0RocUFkYWZn@p1tun2.greewebservices.ir:2060#filembad-20 | speed: 7.43 Mbps
