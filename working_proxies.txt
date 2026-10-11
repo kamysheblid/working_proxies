@@ -1,3 +1,3 @@
-http://@128.199.121.61:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.121.61-0631 | speed: 3.80 Mbps
-vless://b092c099-67aa-45fd-bba7-56d30a5b3427@194.110.24.28:443?security=reality&encryption=none&pbk=LgMOyTPc56yUf_OHV67D2UAY_-_pL4UhDkzkE2yWzDs&headerType=none&fp=chrome&spx=%2F4db43a457e501c3&type=tcp&sni=snapp.ir&sid=207111#filembad-343 | speed: 12.63 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkLTJQY1hsTFpuY1h2a0RocUFkYWZn@p1tun2.greewebservices.ir:2060#filembad-20 | speed: 13.85 Mbps
+vless://b092c099-67aa-45fd-bba7-56d30a5b3427@194.110.24.28:443?security=reality&encryption=none&pbk=LgMOyTPc56yUf_OHV67D2UAY_-_pL4UhDkzkE2yWzDs&headerType=none&fp=chrome&spx=%2F4db43a457e501c3&type=tcp&sni=snapp.ir&sid=207111#filembad-343 | speed: 13.93 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkLTJQY1hsTFpuY1h2a0RocUFkYWZn@p1tun2.greewebservices.ir:2060#filembad-20 | speed: 8.72 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkLTJQY1hsTFpuY1h2a0RocUFkYWZn@p1tun1.greewebservices.ir:2050#filembad-19 | speed: 4.13 Mbps
