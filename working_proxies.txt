@@ -1,3 +1,2 @@
-vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@unity.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=OJPi91YbQ8YZ7eXWUndN9xp_S7PRW2Jwt7UExyEqCzY&fp=random&type=grpc&serviceName=grpc-tunnel&sni=unity.videofriend.site&sid=34b185e1d7969492#filembad-449 | speed: 11.65 Mbps
-vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@troll.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=6PsAIJJLy7TNwOtBlOL0r_BclYkvkn81CEYJwl4Fc2M&fp=random&type=grpc&serviceName=grpc-tunnel&sni=troll.videofriend.site&sid=40daff00abd1#filembad-448 | speed: 11.36 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtwQGMzLm5hc3R1aC5saW5rOjQ0Mw==#filembad-15 | 🇳🇱 speed: 1.98 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0260 | speed: 3.27 Mbps
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@private.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=F8fIr8FORkSgm5CW4TXA_Qi7Q0CjAAoEqU24vzU48ws&fp=random&type=grpc&serviceName=grpc-tunnel&sni=private.videofriend.site&sid=b2327288145dcaa0#filembad-447 | 🇷🇺 speed: 11.11 Mbps
