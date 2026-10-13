@@ -1,8 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0261 | 🇿🇦 speed: 6.33 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-20.61.185.19-0235 | speed: 16.41 Mbps
-vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#filembad-459 | 🇷🇺 speed: 14.70 Mbps
-vless://2422dbe1-83cb-4bae-9b7e-569e6aaaca00@185.242.3.97:8443?security=reality&encryption=none&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&fp=firefox&type=grpc&serviceName=vless-grpc&sni=www.cloudflare.com&sid=a1b2c3d4#filembad-131 | speed: 10.88 Mbps
-vless://2422dbe1-83cb-4bae-9b7e-569e6aaaca00@185.242.3.97:8443?mode=gun&security=reality&encryption=none&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&fp=firefox&type=grpc&serviceName=vless-grpc&sni=www.cloudflare.com&sid=a1b2c3d4#filembad-130 | speed: 4.46 Mbps
-vless://2422dbe1-83cb-4bae-9b7e-569e6aaaca00@185.242.3.97:8443?mode=gun&security=reality&encryption=none&authority=&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&fp=firefox&type=grpc&serviceName=vless-grpc&sni=www.cloudflare.com&sid=a1b2c3d4#filembad-129 | speed: 4.98 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1Z5VWdXV0xjNEc0N0dOb19ieDJ3@94.184.42.18:8880#filembad-17 | speed: 17.57 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtwQGMzLm5hc3R1aC5saW5rOjQ0Mw==#filembad-15 | speed: 15.92 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0261 | 🇿🇦 speed: 6.31 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-20.61.185.19-0235 | 🇳🇱 speed: 14.50 Mbps
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@unity.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=OJPi91YbQ8YZ7eXWUndN9xp_S7PRW2Jwt7UExyEqCzY&fp=random&type=grpc&serviceName=grpc-tunnel&sni=unity.videofriend.site&sid=34b185e1d7969492#filembad-463 | speed: 16.09 Mbps
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@troll.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=6PsAIJJLy7TNwOtBlOL0r_BclYkvkn81CEYJwl4Fc2M&fp=random&type=grpc&serviceName=grpc-tunnel&sni=troll.videofriend.site&sid=40daff00abd1#filembad-462 | speed: 16.55 Mbps
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#filembad-459 | speed: 15.29 Mbps
+vless://6f2ead7e-db4a-4725-9657-6fd205faab91@fl.i3adra0-pshop.ir:2082?path=%2F&security=none&encryption=none&host=fl.i3adra0-pshop.ir&type=httpupgrade#filembad-282 | 🇨🇦 speed: 14.88 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1Z5VWdXV0xjNEc0N0dOb19ieDJ3@94.184.42.18:8880#filembad-17 | speed: 15.37 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtwQGMzLm5hc3R1aC5saW5rOjQ0Mw==#filembad-15 | 🇳🇱 speed: 16.91 Mbps
