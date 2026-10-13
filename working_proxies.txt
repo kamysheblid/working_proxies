@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-20.61.185.19-0179 | 🇳🇱 speed: 12.37 Mbps
-vmess://ewogICAgImFkZCI6ICJjZG4uc2ZhY2cudWsiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvcjMuc2ZhY2cudWsiLAogICAgImlkIjogImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9vcjMiLAogICAgInBvcnQiOiAyMDgzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNjIuMTU5LjEzNS4yMzQtMTM1OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9 | speed: 2.67 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0194 | speed: 6.21 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNjNxLVdoSGRKb0NfQUl4VDZFNHJfSUl1R0liNkN1Vg==@feow.nomush.ir:8388#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.248.33-2546 | speed: 13.13 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1Z5VWdXV0xjNEc0N0dOb19ieDJ3@94.184.42.18:8880#filembad-15 | 🇮🇷 speed: 8.97 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNjNxLVdoSGRKb0NfQUl4VDZFNHJfSUl1R0liNkN1Vg==@feow.nomush.ir:8388#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.248.33-2546 | speed: 14.34 Mbps
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#filembad-450 | 🇷🇺 speed: 14.38 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtwQGMzLm5hc3R1aC5saW5rOjQ0Mw==#filembad-13 | 🇳🇱 speed: 16.57 Mbps
