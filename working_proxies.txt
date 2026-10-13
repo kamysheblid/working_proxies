@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNjNxLVdoSGRKb0NfQUl4VDZFNHJfSUl1R0liNkN1Vg==@feow.nomush.ir:8388#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.248.33-2546 | speed: 14.34 Mbps
-vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#filembad-450 | 🇷🇺 speed: 14.38 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtwQGMzLm5hc3R1aC5saW5rOjQ0Mw==#filembad-13 | 🇳🇱 speed: 16.57 Mbps
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@private.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=F8fIr8FORkSgm5CW4TXA_Qi7Q0CjAAoEqU24vzU48ws&fp=random&type=grpc&serviceName=grpc-tunnel&sni=private.videofriend.site&sid=b2327288145dcaa0#filembad-452 | speed: 14.88 Mbps
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@ops4asfseretuiyk.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ops4asfseretuiyk.localip.ir&type=ws&allowInsecure=0&sni=ops4asfseretuiyk.localip.ir#ProxyMtpVPN-331 | speed: 11.74 Mbps
