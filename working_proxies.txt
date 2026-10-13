@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0260 | speed: 3.27 Mbps
-vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@private.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=F8fIr8FORkSgm5CW4TXA_Qi7Q0CjAAoEqU24vzU48ws&fp=random&type=grpc&serviceName=grpc-tunnel&sni=private.videofriend.site&sid=b2327288145dcaa0#filembad-447 | 🇷🇺 speed: 11.11 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0260 | 🇿🇦 speed: 5.60 Mbps
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@private.videofriend.site:443?mode=gun&security=reality&encryption=none&pbk=F8fIr8FORkSgm5CW4TXA_Qi7Q0CjAAoEqU24vzU48ws&fp=random&type=grpc&serviceName=grpc-tunnel&sni=private.videofriend.site&sid=b2327288145dcaa0#filembad-447 | speed: 15.90 Mbps
