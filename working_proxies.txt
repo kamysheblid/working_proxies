@@ -1,5 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-51.124.214.122-0257 | 🇳🇱 speed: 2.32 Mbps
-ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg==@89.125.103.208:20111#%F0%9F%87%B7%F0%9F%87%BARU-89.125.103.208-0633 | 🇷🇺 speed: 6.26 Mbps
-http://@95.133.236.11:3128?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-95.133.236.11-0637 | speed: 6.37 Mbps
-vless://d314f749-4927-4722-bf97-f95927663479@connect.navard.net:3071?security=none&encryption=mlkem768x25519plus.xorpub.0rtt.tihGqG3J9ZTRcWubjVYNyrHM_15HFjE0Dnphu1JXqQQ&headerType=none&type=tcp#filembad-357 | speed: 14.38 Mbps
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#filembad-167 | 🇮🇷 speed: 1.62 Mbps
+ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg==@89.125.103.208:20111#%F0%9F%87%B7%F0%9F%87%BARU-89.125.103.208-0633 | speed: 17.22 Mbps
+vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@45.133.151.176:25375?mode=gun&security=reality&encryption=none&pbk=PdiXtqIEtNpVRKgB1WCKnmIOC7yJ-VR4uUe1uYjcqXM&fp=firefox&type=grpc&serviceName=05195f917c82&sni=www.bing.com&sid=8e2a0cd6de5dc50a#filembad-398 | speed: 5.00 Mbps
