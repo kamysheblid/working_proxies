@@ -1,20 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-51.124.214.122-0257 | 🇳🇱 speed: 5.25 Mbps
-ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg==@89.125.103.208:20111#%F0%9F%87%B7%F0%9F%87%BARU-89.125.103.208-0633 | 🇷🇺 speed: 13.87 Mbps
-vless://e86a3662-9b31-4d59-bc80-9e8644749b95@91.196.163.140:14430?sni=91.196.163.140&type=ws&headerType=none&host=91.196.163.140&path=%2Fvless#filembad-381 | speed: 12.34 Mbps
-vless://e86a3662-9b31-4d59-bc80-9e8644749b95@91.196.163.140:14430?path=%2Fvless&security=none&encryption=none&host=91.196.163.140&type=ws&sni=91.196.163.140#filembad-380 | speed: 12.24 Mbps
-vless://e86a3662-9b31-4d59-bc80-9e8644749b95@91.196.163.140:14430?path=%2Fvless&security=&encryption=none&host=91.196.163.140&type=ws&sni=91.196.163.140#filembad-379 | speed: 11.66 Mbps
-vless://e86a3662-9b31-4d59-bc80-9e8644749b95@91.196.163.140:14430?path=%2Fvless&security=&encryption=none&host=91.196.163.140%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=ws&sni=91.196.163.140#filembad-378 | speed: 12.14 Mbps
-vless://b17f6233-6726-41ff-9f62-fde7ccdbd282@545.150333.xyz:21001?security=reality&encryption=none&pbk=7RyQhh-unO6BjkHRVycWKlFyQgJ3vi5_bAI3Mc8CGCA&headerType=none&type=tcp&sni=www.cloudflare.com&sid=c6887d3b76ef73c9#filembad-306 | speed: 3.80 Mbps
-vless://a7f30d09-59d6-4aee-8145-a9c58f8ae170@530.150333.xyz:21001?security=reality&encryption=none&pbk=AgpdDitYHUIsl0-hVB6HV9vlTyfP25grps1E8G2BLDA&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2344dfc9d062ae22#filembad-291 | speed: 5.00 Mbps
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=%2Fvless#filembad-262 | speed: 2.82 Mbps
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#filembad-261 | speed: 2.14 Mbps
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=none&encryption=none&host=95.174.68.188&type=ws#filembad-260 | speed: 3.01 Mbps
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#filembad-259 | speed: 2.17 Mbps
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=%2Fvless&security=&encryption=none&host=95.174.68.188&type=ws#filembad-258 | speed: 3.02 Mbps
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.230.62:2053?mode=gun&security=reality&encryption=none&pbk=huWYSqGaqUTQWhee7SbQrNZ32qxCWQFvjTVkPRLQYTw&fp=random&type=grpc&serviceName=grpc&sni=files.polina.lol#filembad-253 | speed: 6.69 Mbps
-vless://60c60f87-cfbf-4930-9f5c-a4a3a3736f5c@dns11.m3hrzd.ir:8030?security=reality&encryption=none&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&headerType=none&fp=edge&type=tcp&sni=race.egistration.ir&sid=38dda82955d5791e#filembad-174 | speed: 11.35 Mbps
-vless://60c60f87-cfbf-4930-9f5c-a4a3a3736f5c@dns11.m3hrzd.ir:8030?encryption=none&type=tcp&security=reality&sni=race.egistration.ir&fp=edge&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e&spx=/HesarWeb#filembad-173 | speed: 13.54 Mbps
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#filembad-154 | speed: 1.91 Mbps
-vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#filembad-128 | 🇸🇬 speed: 5.26 Mbps
-vless://13b7c2aa-bb34-43b2-b9ea-113dbfbb4feb@tun2.w-ert.org:447?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-63 | speed: 2.87 Mbps
-ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg@89.125.103.208:20111#filembad-24 | 🇷🇺 speed: 5.44 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0255 | 🇿🇦 speed: 6.13 Mbps
+ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg==@89.125.103.208:20111#%F0%9F%87%B7%F0%9F%87%BARU-89.125.103.208-0633 | 🇷🇺 speed: 15.06 Mbps
+http://@95.133.236.11:3128?tls=false#%F0%9F%87%A9%F0%9F%87%AADE-95.133.236.11-0637 | speed: 3.56 Mbps
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#filembad-156 | speed: 6.64 Mbps
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#filembad-154 | speed: 6.57 Mbps
+vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=none&encryption=none&headerType=none&type=tcp#filembad-109 | speed: 7.86 Mbps
+vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=&encryption=none&headerType=none&type=tcp#filembad-108 | speed: 8.26 Mbps
+vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125/?type=tcp&encryption=none&flow=#filembad-107 | speed: 7.62 Mbps
+ss://YWVzLTI1Ni1nY206OTk0Y2NhYmY2ZjA5NTBkNg@89.125.103.208:20111#filembad-24 | 🇷🇺 speed: 18.59 Mbps
