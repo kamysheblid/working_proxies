@@ -1,1 +1,6 @@
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?security=reality&encryption=none&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&headerType=none&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=26c4e208f355#filembad-250 | 🇫🇮 speed: 13.38 Mbps
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?security=reality&encryption=none&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&headerType=none&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=26c4e208f355#filembad-251 | speed: 13.41 Mbps
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?security=reality&encryption=none&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&headerType=&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=26c4e208f355#filembad-250 | speed: 11.38 Mbps
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?encryption=none&fp=firefox&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&security=reality&sid=a044&sni=npdev.uk&spx=%2F0f6ac3bda1db9c4&type=tcp#filembad-249 | speed: 13.09 Mbps
+vless://MiMiTDL@91.98.104.214:47081?path=%2Findex.php&security=none&encryption=mlkem768x25519plus.native.0rtt.6R5Qjr203bLcAfROo475i5hqDKiLlcZy8veM7WuSIB8&host=dynu.com&type=ws#filembad-242 | speed: 12.68 Mbps
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGFAMTc2LjMyLjMyLjEwODoxODQ0Mw==#filembad-29 | 🇷🇺 speed: 14.44 Mbps
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.32.108:18443#filembad-28 | 🇷🇺 speed: 14.86 Mbps
