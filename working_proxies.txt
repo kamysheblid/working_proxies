@@ -1,0 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-20.234.202.46-0185 | 🇳🇱 speed: 6.12 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0131 | 🇿🇦 speed: 5.10 Mbps
+http://None@128.199.254.13:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.254.13-0560 | speed: 5.47 Mbps
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#filembad-141 | speed: 5.45 Mbps
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#filembad-140 | 🇮🇷 speed: 2.12 Mbps
