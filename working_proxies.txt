@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%F0%9F%87%B3%F0%9F%87%B1NL-20.234.202.46-0185 | 🇳🇱 speed: 11.51 Mbps
-http://None@128.199.254.13:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.254.13-0560 | speed: 5.41 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0131 | 🇿🇦 speed: 3.54 Mbps
+vless://daf4eef8-a00c-40d3-8ad9-2986c489c284@mui.firzav.ir:46099?encryption=mlkem768x25519plus.native.0rtt.c0cVO78nHndxd7wo6c8s8bvFYTDn3I2VBhMdx4eLiGI&security=none&type=tcp&headerType=none#filembad-330 | speed: 14.05 Mbps
