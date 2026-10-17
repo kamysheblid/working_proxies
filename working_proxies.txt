@@ -1,13 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQemxjYl9QZVYzdVJnaUMyTk5vTkt3@b2a2.velqixa.ir:39221#%F0%9F%87%AB%F0%9F%87%AEFI-46.62.246.189-0413 | speed: 14.90 Mbps
-vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?encryption=none&type=ws&path=%2F#filembad-384 | speed: 9.07 Mbps
-vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=%2Falibodama-ws&security=none&encryption=none&host=51.75.118.149&type=ws#filembad-365 | speed: 12.54 Mbps
-vless://cf89fddb-e76b-430e-8952-61e33d4da4a6@f36.tivexabot.ir:8443?security=reality&encryption=none&pbk=QJ0hQw2eD-EVhhGSr28CN10dVFDNGKgaIZ8spSZFO3M&headerType=none&fp=chrome&spx=%2F9b9f529f9cc2b67&type=tcp&sni=stg-ru-images.shop.samsung.com&sid=19fad7d75677e2#filembad-337 | speed: 12.51 Mbps
-vless://cf89fddb-e76b-430e-8952-61e33d4da4a6@f36.tivexabot.ir:8443?encryption=none&fp=chrome&pbk=QJ0hQw2eD-EVhhGSr28CN10dVFDNGKgaIZ8spSZFO3M&security=reality&sid=19fad7d75677e2&sni=stg-ru-images.shop.samsung.com&spx=%2F9b9f529f9cc2b67&support-x25519mlkem768=true&type=tcp#filembad-336 | speed: 11.63 Mbps
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&security=none&sni=213.176.92.168&type=ws&host=213.176.92.168&path=%2Fvless#filembad-313 | speed: 12.12 Mbps
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&security=none&sni=213.176.92.168&fp=qq&type=ws&host=213.176.92.168&path=%2Fvless#filembad-312 | speed: 11.43 Mbps
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&security=none&sni=213.176.92.168&fp=firefox&type=ws&host=213.176.92.168&path=%2Fvless#filembad-311 | speed: 4.52 Mbps
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#filembad-289 | speed: 3.68 Mbps
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#filembad-288 | speed: 3.79 Mbps
-vless://58fce630-f90b-42aa-84b4-ba4117864609@07a43ef8ce834d5a.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-178 | 🇮🇷 speed: 2.39 Mbps
-vless://2891ae28-dd18-4b05-a533-674485288e38@tun2.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca4134a0ed2592b6#filembad-114 | speed: 6.50 Mbps
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#filembad-26 | 🇨🇿 speed: 9.56 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0142 | 🇿🇦 speed: 5.85 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQemxjYl9QZVYzdVJnaUMyTk5vTkt3@b2a2.velqixa.ir:39221#%F0%9F%87%AB%F0%9F%87%AEFI-46.62.246.189-0413 | speed: 13.91 Mbps
+vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?encryption=none&type=ws&path=%2F#filembad-384 | speed: 9.75 Mbps
+vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@164.37.224.244:25239?security=reality&encryption=none&pbk=0hYbfdNYeWetabbW1wCcrwi0e1VQA45Jhgi42YxU5nk&headerType=&type=tcp&sni=www.microsoft.com&sid=9a382b227140e86f#filembad-341 | speed: 2.24 Mbps
+vless://cf89fddb-e76b-430e-8952-61e33d4da4a6@f36.tivexabot.ir:8443?security=reality&encryption=none&pbk=QJ0hQw2eD-EVhhGSr28CN10dVFDNGKgaIZ8spSZFO3M&headerType=none&fp=chrome&spx=%2F9b9f529f9cc2b67&type=tcp&sni=stg-ru-images.shop.samsung.com&sid=19fad7d75677e2#filembad-337 | speed: 13.67 Mbps
+vless://cf89fddb-e76b-430e-8952-61e33d4da4a6@f36.tivexabot.ir:8443?encryption=none&fp=chrome&pbk=QJ0hQw2eD-EVhhGSr28CN10dVFDNGKgaIZ8spSZFO3M&security=reality&sid=19fad7d75677e2&sni=stg-ru-images.shop.samsung.com&spx=%2F9b9f529f9cc2b67&support-x25519mlkem768=true&type=tcp#filembad-336 | speed: 14.37 Mbps
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?encryption=none&security=none&sni=213.176.92.168&type=ws&host=213.176.92.168&path=%2Fvless#filembad-313 | speed: 9.96 Mbps
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#filembad-289 | speed: 5.88 Mbps
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#filembad-288 | speed: 2.02 Mbps
+vless://2ffa91fe-e1cc-4c44-a90a-45002feae978@aelix-al.safire-soleiman.ir:6311?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#filembad-123 | 🇦🇱 speed: 9.43 Mbps
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#filembad-26 | speed: 9.68 Mbps
