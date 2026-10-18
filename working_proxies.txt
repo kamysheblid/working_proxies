@@ -1,3 +1,4 @@
-vless://bd4badaa-e3a5-48a5-aaf3-2d01b5c17ea5@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#filembad-315 | speed: 2.80 Mbps
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#filembad-287 | speed: 5.60 Mbps
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#filembad-124 | 🇺🇸 speed: 8.58 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0170 | 🇿🇦 speed: 1.61 Mbps
+vless://bd4badaa-e3a5-48a5-aaf3-2d01b5c17ea5@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#filembad-315 | 🇱🇻 speed: 1.59 Mbps
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#filembad-287 | 🇺🇸 speed: 5.45 Mbps
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#filembad-124 | speed: 9.81 Mbps
