@@ -1,1 +1,0 @@
-vless://70dc0457-6c20-446e-84d0-9a6adbb56aaa@fd9634240eb97507.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-211 | speed: 15.17 Mbps
