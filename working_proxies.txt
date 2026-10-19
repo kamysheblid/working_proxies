@@ -1,5 +1,2 @@
-vless://2a1acb4b-fe6e-487c-ac63-c83b84c657ac@tun2.w-ert.org:44512?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6# | 🇮🇷 speed: 3.14 Mbps
-vless://a9aed6a7-0295-4df4-8d29-c66677d7ea08@b1f6ef09cf4b0351.tunvi.w-ert.org:444?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-266 | speed: 15.24 Mbps
-vless://a9aed6a7-0295-4df4-8d29-c66677d7ea08@60d1a4973d2b07fd.tunvi.w-ert.org:32093?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-265 | speed: 14.79 Mbps
-vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@p2real33.greewebservices.ir:1330?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#filembad-138 | speed: 12.58 Mbps
-vless://45da91b7-14f7-46e0-a4a2-a66c1dbd7543@p2real33.greewebservices.ir:1330?encryption=none&type=tcp&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#filembad-137 | speed: 13.69 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp# | 🇬🇧 speed: 10.78 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22224?security=&encryption=none&headerType=none&type=tcp# | 🇬🇧 speed: 12.27 Mbps
