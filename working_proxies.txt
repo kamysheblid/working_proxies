@@ -1,6 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&security=none&type=tcp#filembad-353 | speed: 14.65 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22223?encryption=none&security=none&type=tcp#filembad-352 | speed: 15.06 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&security=none&type=tcp#filembad-351 | speed: 12.16 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22224?encryption=none&security=none&type=tcp#filembad-341 | speed: 2.75 Mbps
-vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?security=none&encryption=none&headerType=none&type=tcp#filembad-229 | 🇩🇪 speed: 2.69 Mbps
-vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#filembad-228 | 🇩🇪 speed: 6.16 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&security=none&type=tcp#filembad-353 | speed: 15.08 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&security=none&type=tcp#filembad-351 | speed: 14.87 Mbps
