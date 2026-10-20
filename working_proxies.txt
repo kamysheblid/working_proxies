@@ -1,18 +1,15 @@
-vless://524b6fd3-2aef-4e11-995f-4d6243a5ae9a@32831f83b52565c1.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-165 | speed: 8.63 Mbps
-vless://22136b20-6365-4ae6-b21a-799a00ab1346@ss3.soreanapanel.com:8080?encryption=none&security=reality&sni=graphs.4cdn.de&fp=firefox&pbk=t_z1GMEv2FYr0Bo57WBuKRRlkyOMj40025j-OcWCtkU&sid=8d542c72c84f&type=tcp&headerType=none#filembad-109 | speed: 2.92 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999?#filembad-38 | speed: 6.20 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#filembad-36 | speed: 9.73 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#filembad-35 | speed: 10.08 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999?#filembad-34 | speed: 7.15 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?#filembad-32 | speed: 10.32 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#filembad-30 | 🇮🇹 speed: 7.79 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#filembad-28 | 🇮🇹 speed: 10.85 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#filembad-25 | speed: 9.96 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999?#filembad-24 | speed: 10.79 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999?#filembad-22 | 🇺🇸 speed: 6.38 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999?#filembad-20 | 🇺🇸 speed: 4.91 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.18:19999?#filembad-18 | speed: 5.37 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999?#filembad-14 | 🇺🇸 speed: 6.23 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999?#filembad-12 | speed: 5.60 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999#filembad-10 | 🇬🇧 speed: 10.25 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#filembad-9 | 🇩🇪 speed: 11.09 Mbps
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@Little.zqpm.ir:20727?encryption=mlkem768x25519plus.native.0rtt.W-TCcFapoIJHekOhsNWkHR0JwuX5ZqXELfq0Dh7zekA&security=none&type=tcp&headerType=none#filembad-309 | speed: 5.18 Mbps
+vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?security=none&encryption=none&headerType=none&type=tcp#filembad-238 | speed: 3.17 Mbps
+vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#filembad-237 | speed: 5.57 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#filembad-39 | 🇺🇸 speed: 6.89 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999?#filembad-38 | 🇺🇸 speed: 8.70 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#filembad-36 | 🇮🇹 speed: 14.24 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#filembad-35 | speed: 13.66 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#filembad-28 | speed: 13.09 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999?#filembad-24 | speed: 2.65 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999?#filembad-22 | 🇺🇸 speed: 8.50 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999?#filembad-20 | speed: 6.29 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.18:19999?#filembad-18 | 🇺🇸 speed: 5.72 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999?#filembad-14 | 🇺🇸 speed: 7.79 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999?#filembad-12 | speed: 7.96 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999#filembad-10 | 🇬🇧 speed: 14.14 Mbps
