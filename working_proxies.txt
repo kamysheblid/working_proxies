@@ -1,17 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22224?security=&encryption=none&headerType=none&type=tcp#filembad-357 | 🇬🇧 speed: 14.78 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22224?encryption=none&security=none&type=tcp&headerType=none#filembad-356 | speed: 15.43 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&security=none&type=tcp#filembad-352 | speed: 15.60 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22223?encryption=none&security=none&type=tcp#filembad-351 | 🇫🇷 speed: 15.19 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&security=none&type=tcp#filembad-350 | 🇫🇷 speed: 10.33 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22223?security=none&encryption=none&headerType=none&type=tcp#filembad-345 | speed: 14.07 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22223?encryption=none&security=none&type=tcp&headerType=none#filembad-344 | speed: 14.57 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22223?encryption=none&security=none&type=tcp#filembad-343 | 🇬🇧 speed: 13.74 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp#filembad-342 | speed: 11.13 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22224?encryption=none&security=none&type=tcp#filembad-341 | 🇫🇷 speed: 12.36 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22223?encryption=none&security=none&type=tcp#filembad-340 | speed: 15.32 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22222?encryption=none&security=none&type=tcp#filembad-339 | speed: 15.14 Mbps
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=none&type=tcp#filembad-241 | speed: 14.10 Mbps
-vless://Tel--------MiMiTDL--------@91.107.174.30:34952?path=%2Findex.php&security=none&encryption=mlkem768x25519plus.native.0rtt.Jd4nZH0Y_uQQAtMHXntkuNdFw7duZ29SSv3phU04mQo&host=dynu.com&type=ws#filembad-240 | speed: 14.96 Mbps
-vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?security=none&encryption=none&headerType=none&type=tcp#filembad-221 | speed: 6.06 Mbps
-vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#filembad-220 | speed: 6.55 Mbps
-vless://22136b20-6365-4ae6-b21a-799a00ab1346@ss3.soreanapanel.com:8080?security=reality&encryption=none&pbk=t_z1GMEv2FYr0Bo57WBuKRRlkyOMj40025j-OcWCtkU&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=firefox&spx=%2F929574c99a2f206&type=tcp&sni=graphs.4cdn.de&sid=8d542c72c84f#filembad-101 | speed: 13.59 Mbps
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=none&type=tcp#filembad-241 | speed: 13.94 Mbps
+vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?security=none&encryption=none&headerType=none&type=tcp#filembad-221 | speed: 1.54 Mbps
+vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#filembad-220 | speed: 5.49 Mbps
+vless://22136b20-6365-4ae6-b21a-799a00ab1346@ss3.soreanapanel.com:8080?security=reality&encryption=none&pbk=t_z1GMEv2FYr0Bo57WBuKRRlkyOMj40025j-OcWCtkU&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=firefox&spx=%2F929574c99a2f206&type=tcp&sni=graphs.4cdn.de&sid=8d542c72c84f#filembad-101 | speed: 12.90 Mbps
+vless://22136b20-6365-4ae6-b21a-799a00ab1346@ss3.soreanapanel.com:8080?security=reality&encryption=none&pbk=t_z1GMEv2FYr0Bo57WBuKRRlkyOMj40025j-OcWCtkU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&spx=%2F929574c99a2f206&type=tcp&sni=graphs.4cdn.de&sid=8d542c72c84f#filembad-100 | speed: 14.41 Mbps
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#filembad-91 | speed: 14.79 Mbps
