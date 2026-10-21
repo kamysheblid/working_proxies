@@ -1,3 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22224?security=&encryption=none&headerType=&type=tcp#filembad-366 | speed: 14.38 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22223?security=none&encryption=none&host=%2Fcopy__Shode_az__Chanel0111Net&headerType=none&type=tcp#filembad-365 | speed: 5.97 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22223?security=&encryption=none&headerType=&type=tcp#filembad-364 | speed: 6.73 Mbps
