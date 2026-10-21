@@ -1,8 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22224?security=none&type=tcp&encryption=none#filembad-354 | speed: 5.89 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22223?security=&encryption=none&headerType=&type=tcp#filembad-352 | speed: 5.85 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-351 | speed: 5.50 Mbps
-vless://cf27c800-0226-4b5c-b0dc-317c46b4307b@63.180.248.105:1002?security=none&type=tcp&headerType=&path=&host=#filembad-324 | speed: 14.51 Mbps
-vless://cf27c800-0226-4b5c-b0dc-317c46b4307b@35.156.10.185:1002?security=none&type=tcp&headerType=&path=&host=#filembad-323 | 🇩🇪 speed: 5.32 Mbps
-vless://cf27c800-0226-4b5c-b0dc-317c46b4307b@3.72.50.236:1002?security=none&type=tcp&headerType=&path=&host=#filembad-322 | speed: 13.29 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppcEZkeV94NXpzbUowR3F4T3FQR0t3@63.180.248.105:1001#filembad-10 | speed: 10.54 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppcEZkeV94NXpzbUowR3F4T3FQR0t3@35.156.10.185:1001#filembad-9 | 🇩🇪 speed: 11.73 Mbps
