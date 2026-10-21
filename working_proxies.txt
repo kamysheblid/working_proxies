@@ -1,2 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22224?security=&encryption=none&headerType=&type=tcp#filembad-354 | 🇬🇧 speed: 13.09 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encryption=none&headerType=&type=tcp#filembad-353 | 🇬🇧 speed: 14.34 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22223?security=none&encryption=none&host=%2Fcopy__Shode_az__Chanel0111Net&headerType=none&type=tcp#filembad-365 | speed: 14.27 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.48.149:22223?security=&encryption=none&headerType=&type=tcp#filembad-364 | speed: 10.04 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.170.98:22223?security=&encryption=none&headerType=&type=tcp#filembad-353 | speed: 14.42 Mbps
+vless://b2dacbda-8221-4548-a104-aa8aa56ab282@a652768e4c2240fc.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-297 | speed: 6.55 Mbps
+vless://3e16033f-71d8-417b-abea-7756253f3c3d@e90846b20d1dd39b.tunvi.w-ert.org:448?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-138 | speed: 14.07 Mbps
+vless://3e16033f-71d8-417b-abea-7756253f3c3d@dcc59f522e6a9537.tunvi.w-ert.org:32093?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-137 | speed: 1.89 Mbps
