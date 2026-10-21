@@ -1,3 +1,4 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#filembad-48 | speed: 8.56 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#filembad-32 | 🇮🇹 speed: 15.31 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?#filembad-26 | speed: 14.87 Mbps
+vless://b2dacbda-8221-4548-a104-aa8aa56ab282@tun2.w-ert.org:44512?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6# | 🇮🇷 speed: 11.45 Mbps
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@Pass.zqpm.ir:20727?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#filembad-301 | 🇩🇪 speed: 4.32 Mbps
+vless://3e16033f-71d8-417b-abea-7756253f3c3d@tun2.w-ert.org:42924?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-144 | 🇮🇷 speed: 9.39 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?#filembad-26 | speed: 15.46 Mbps
