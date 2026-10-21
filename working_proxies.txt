@@ -1,7 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22222?security=none&encryption=none&headerType=none&type=tcp#filembad-351 | speed: 13.56 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22222?encryption=none&security=none&type=tcp#filembad-350 | speed: 14.04 Mbps
-vless://b2dacbda-8221-4548-a104-aa8aa56ab282@tun2.w-ert.org:56841?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-290 | speed: 10.30 Mbps
-vless://b2dacbda-8221-4548-a104-aa8aa56ab282@tun2.w-ert.org:44512?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-289 | speed: 10.67 Mbps
-vless://74595eda-05fd-4421-8769-3f6fc6075945@fr.duolingoo.ir:2053?mode=auto&path=%2F&security=reality&encryption=none&pbk=TFeykT78-BSVFNbxjfVqgwVu5FA84fFdBSbfAY8xpgY&fp=chrome&type=xhttp&sni=play.google.com&sid=8d696f0e09350a53#filembad-214 | 🇮🇷 speed: 18.16 Mbps
-vless://3e16033f-71d8-417b-abea-7756253f3c3d@tun2.w-ert.org:56841?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-129 | speed: 9.13 Mbps
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@176.32.34.253:18443?#filembad-20 | speed: 6.31 Mbps
+vless://b2dacbda-8221-4548-a104-aa8aa56ab282@tun2.w-ert.org:56841?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#filembad-290 | speed: 1.99 Mbps
+vless://74595eda-05fd-4421-8769-3f6fc6075945@fr.duolingoo.ir:2053?mode=auto&path=%2F&security=reality&encryption=none&pbk=TFeykT78-BSVFNbxjfVqgwVu5FA84fFdBSbfAY8xpgY&fp=chrome&type=xhttp&sni=play.google.com&sid=8d696f0e09350a53#filembad-214 | 🇮🇷 speed: 15.58 Mbps
