@@ -1,9 +1,4 @@
-vless://3e16033f-71d8-417b-abea-7756253f3c3d@tun2.w-ert.org:42924?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6# | 🇮🇷 speed: 9.14 Mbps
-vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@Pass.zqpm.ir:20727?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520# | 🇩🇪 speed: 4.27 Mbps
-vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@pass.zqpm.ir:20727?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520&type=tcp&headerType=none# | 🇩🇪 speed: 4.09 Mbps
-vless://6035b7aa-d53b-478e-8b4f-f6b3d58598f5@01-ir.nimhubnet.ir:1001?encryption=mlkem768x25519plus.native.0rtt.3IGhcIYDxMlgfOc-Zz667EBP9OhYiyx_v-dm_G48gDI&security=reality&sni=myket.ir&fp=chrome&pbk=WhhDDr5dbpu-MKir-ituefFelzPYJ3aI_XUnAPItZnk&sid=9f87d005b13ec024&type=tcp&headerType=none&host=cafeariel.ir# | speed: 12.67 Mbps
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#filembad-317 | speed: 10.20 Mbps
-vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21003?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=&type=tcp&sni=www.cloudflare.com&sid=f3602a3a1cf928b7#filembad-198 | 🇸🇬 speed: 5.14 Mbps
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&encryption=none&headerType=none&type=tcp#filembad-100 | 🇩🇪 speed: 11.19 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#filembad-39 | 🇮🇹 speed: 14.78 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#filembad-31 | 🇮🇹 speed: 13.49 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40V2rayng_Fast%20 | 🇮🇹 speed: 14.52 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#filembad-48 | speed: 8.56 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#filembad-40 | speed: 13.29 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?#filembad-26 | speed: 16.56 Mbps
