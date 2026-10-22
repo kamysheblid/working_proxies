@@ -1,5 +1,1 @@
-vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?security=reality&encryption=none&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&headerType=none&fp=edge&type=tcp&sni=storage-p2.googleapis.com&sid=73da8baa63f8d537# | 🇹🇷 speed: 6.77 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?encryption=none&security=none&type=tcp# | 🇫🇷 speed: 15.57 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22222?security=none&type=tcp# | 🇫🇷 speed: 15.02 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?security=none&encryption=none&headerType=none&type=tcp# | 🇫🇷 speed: 9.81 Mbps
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=125ba3&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ#filembad-121 | speed: 7.09 Mbps
+vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?encryption=none&security=reality&sni=storage-p2.googleapis.com&fp=edge&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&sid=73da8baa63f8d537&type=tcp&headerType=none#filembad-191 | 🇹🇷 speed: 14.89 Mbps
