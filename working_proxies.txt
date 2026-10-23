@@ -1,3 +1,3 @@
-vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiMTcyLjY2LjAuMjUxIiwiaWQiOiI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvODcwYW8yNmYiLCJwb3J0IjoiODAiLCJwcyI6ImZpbGVtYmFkLTQwMSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== | speed: 1.83 Mbps
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.33.153:18443#filembad-35 | 🇷🇺 speed: 14.97 Mbps
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443#filembad-25 | speed: 19.87 Mbps
+vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiMTcyLjY2LjAuMjUxIiwiaWQiOiI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvODcwYW8yNmYiLCJwb3J0IjoiODAiLCJwcyI6ImZpbGVtYmFkLTQwMSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== | speed: 5.81 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?encryption=none&security=none&type=tcp#filembad-347 | speed: 14.50 Mbps
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.33.153:18443#filembad-35 | 🇷🇺 speed: 13.21 Mbps
