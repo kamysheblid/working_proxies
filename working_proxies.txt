@@ -1,3 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?encryption=none&security=none&type=tcp#filembad-347 | 🇬🇧 speed: 9.32 Mbps
-vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?security=reality&encryption=none&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=ce1dc482#filembad-238 | speed: 13.40 Mbps
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.33.153:18443#filembad-35 | speed: 7.43 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?encryption=none&security=none&type=tcp#filembad-347 | speed: 14.86 Mbps
