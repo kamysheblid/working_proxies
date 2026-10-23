@@ -1,8 +1,6 @@
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@195.133.5.194:18443#%F0%9F%87%B7%F0%9F%87%BARU-195.133.5.194-1982 | speed: 8.97 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?security=none&encryption=none&headerType=none&type=tcp#filembad-329 | 🇬🇧 speed: 14.72 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?encryption=none&security=none&type=tcp#filembad-328 | speed: 13.40 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22223?encryption=none&security=none&type=tcp#filembad-315 | speed: 6.92 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22222?encryption=none&security=none&type=tcp#filembad-314 | speed: 6.79 Mbps
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#filembad-292 | 🇬🇧 speed: 14.60 Mbps
-vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?security=reality&encryption=none&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=ce1dc482#filembad-219 | speed: 13.01 Mbps
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:17001#filembad-22 | speed: 8.95 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?security=none&encryption=none&headerType=none&type=tcp#filembad-329 | 🇬🇧 speed: 12.89 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?encryption=none&security=none&type=tcp#filembad-328 | speed: 14.64 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22223?encryption=none&security=none&type=tcp#filembad-315 | speed: 13.84 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22222?encryption=none&security=none&type=tcp#filembad-314 | speed: 14.90 Mbps
+vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?security=reality&encryption=none&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=ce1dc482#filembad-219 | speed: 14.09 Mbps
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:17001#filembad-22 | speed: 9.34 Mbps
