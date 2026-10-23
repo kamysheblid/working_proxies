@@ -1,11 +1,5 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@200.180.163.38:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Tel%40V2rayng_Fast%20%F0%9F%87%B8%F0%9F%87%AA | 🇯🇵 speed: 4.83 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.125.31:22223?security=&encryption=none&headerType=none&type=tcp# | speed: 6.30 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?security=&encryption=none&headerType=none&type=tcp# | 🇫🇷 speed: 14.65 Mbps
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiZnJlZS5lcnRlYmF0Z29vc3Rhci5pciIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJjOWVhYjQzOS01M2JmLTQ2ZTQtYmE1OC1mYzM2OGFlMWVlOGMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIiwgInZjbiI6ICIiLCAicGNzIjogIiJ9 | speed: 28.32 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22222?encryption=none&security=none&type=tcp# | 🇫🇷 speed: 15.20 Mbps
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none# | 🇩🇪 speed: 15.52 Mbps
-vmess://eyJhZGQiOiAiZnJlZS5lcnRlYmF0Z29vc3Rhci5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzllYWI0MzktNTNiZi00NmU0LWJhNTgtZmMzNjhhZTFlZThjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0= | speed: 11.14 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?encryption=none&security=none&type=tcp# | 🇫🇷 speed: 14.87 Mbps
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp# | 🇩🇪 speed: 14.35 Mbps
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=none&type=tcp# | speed: 14.01 Mbps
-ss://YWVzLTEyOC1nY206ZGIyY2YzZTIxYzgzNDgzYzkwODRiOWRiMWJkNDY5ZmI@87.107.114.105:900#filembad-20 | speed: 12.06 Mbps
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@200.180.163.38:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Tel%40V2rayng_Fast%20%F0%9F%87%B8%F0%9F%87%AA | 🇯🇵 speed: 4.11 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22222?security=none&type=tcp&encryption=none# | 🇫🇷 speed: 15.58 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22223?encryption=none&security=none&type=tcp# | 🇫🇷 speed: 13.91 Mbps
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=125ba3&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ# | speed: 15.21 Mbps
+ss://YWVzLTEyOC1nY206ZGIyY2YzZTIxYzgzNDgzYzkwODRiOWRiMWJkNDY5ZmI@87.107.114.105:900#filembad-20 | 🇮🇷 speed: 10.29 Mbps
