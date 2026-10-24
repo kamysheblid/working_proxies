@@ -1,2 +1,2 @@
-http://@128.199.121.61:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.121.61-0565 | 🇸🇬 speed: 2.75 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRV9pNkNMbnM3N2tfY1FVWDhXUWlhLUwzRENTV1ZmVQ@dns3.m3hrzd.ir:8044#filembad-7 | 🇺🇸 speed: 7.00 Mbps
+http://@128.199.121.61:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.121.61-0565 | speed: 5.05 Mbps
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@213.202.216.117:17001#filembad-23 | speed: 6.59 Mbps
