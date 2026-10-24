@@ -1,2 +1,2 @@
-http://@128.199.121.61:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.121.61-0565 | speed: 2.37 Mbps
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=&type=tcp#filembad-264 | speed: 12.70 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFh6VndCZ2tONzdhSW9mMnBFaGFZbXBBVFZaVklsaA==@dns2.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1NL-213.189.8.70-4865 | 🇳🇱 speed: 5.10 Mbps
+http://@103.124.138.70:8090?tls=false#%F0%9F%87%AE%F0%9F%87%A9ID-103.124.138.70-0572 | speed: 3.23 Mbps
