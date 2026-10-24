@@ -1,3 +1,1 @@
-vless://4fa06c4f-b8ca-4361-9222-11814ca91486@b2a6d3eacf6cf285.5z6.ir:8133?security=none&encryption=mlkem768x25519plus.native.0rtt.-5XxpOsCMhZUt34DTIS27-u56sR1op7YY7BH1KD6Yw4&headerType=none&type=tcp#filembad-160 | speed: 10.55 Mbps
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@213.202.216.117:17001#filembad-24 | speed: 10.80 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dURyQ0ZfaUxveENpUmtLa3U2ZjdB@49.12.249.167:145#filembad-3 | speed: 8.63 Mbps
+http://@103.124.138.70:8090?tls=false#%F0%9F%87%AE%F0%9F%87%A9ID-103.124.138.70-0572 | speed: 3.78 Mbps
