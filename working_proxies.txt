@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFh6VndCZ2tONzdhSW9mMnBFaGFZbXBBVFZaVklsaA==@dns2.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1NL-213.189.8.70-4865 | 🇳🇱 speed: 5.10 Mbps
-http://@103.124.138.70:8090?tls=false#%F0%9F%87%AE%F0%9F%87%A9ID-103.124.138.70-0572 | speed: 3.23 Mbps
+http://@128.199.121.61:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.121.61-0565 | speed: 5.60 Mbps
+vless://f1e7eafa-0d6f-441e-8565-29f34171aef2@23.160.56.99:2087?encryption=none&security=none&type=tcp&headerType=none#filembad-360 | 🇺🇸 speed: 2.34 Mbps
