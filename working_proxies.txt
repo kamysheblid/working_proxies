@@ -1,8 +1,6 @@
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@195.133.5.194:18443#%F0%9F%87%B7%F0%9F%87%BARU-195.133.5.194-1982 | 🇷🇺 speed: 21.26 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?security=none&encryption=none&headerType=none&type=tcp#filembad-329 | speed: 14.87 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22224?encryption=none&security=none&type=tcp#filembad-328 | speed: 13.92 Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22223?encryption=none&security=none&type=tcp#filembad-315 | speed: 14.57 Mbps
-vless://2c7332d6-01e0-462e-843f-8253d7e1b920@toggle.skelmoridianservice.com:443?mode=gun&security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&fp=firefox&type=grpc&serviceName=moktana.net.v1.StreamService&sni=hexagonicfield.com&sid=a1b2c3d4e5f6a7b8#filembad-109 | 🇷🇺 speed: 17.05 Mbps
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443#filembad-24 | 🇷🇺 speed: 20.32 Mbps
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:17001#filembad-22 | 🇳🇱 speed: 6.87 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#filembad-21 | 🇳🇱 speed: 14.35 Mbps
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@195.133.5.194:18443#%F0%9F%87%B7%F0%9F%87%BARU-195.133.5.194-1982 | speed: 20.93 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22223?encryption=none&security=none&type=tcp#filembad-314 | speed: 15.02 Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22222?encryption=none&security=none&type=tcp#filembad-313 | speed: 10.64 Mbps
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443#filembad-26 | speed: 23.31 Mbps
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@50.7.41.118:17001#filembad-24 | 🇳🇱 speed: 15.37 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#filembad-22 | 🇳🇱 speed: 14.96 Mbps
