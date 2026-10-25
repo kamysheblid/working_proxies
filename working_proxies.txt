@@ -1,4 +1,6 @@
-vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImhvc3QiOiIxNzIuNjYuMC4yNTEiLCJpZCI6IjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii84NzBhbzI2ZiIsInBvcnQiOiI4MCIsInBzIjoiZmlsZW1iYWQtMzgyIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ2IjoiMiJ9 | speed: 6.01 Mbps
-vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiMTcyLjY2LjAuMjUxIiwiaWQiOiI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvODcwYW8yNmYiLCJwb3J0IjoiODAiLCJwcyI6ImZpbGVtYmFkLTM4MSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== | speed: 6.44 Mbps
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#filembad-310 | 🇵🇱 speed: 14.89 Mbps
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=&type=tcp#filembad-264 | speed: 16.82 Mbps
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.43.227:18443#%F0%9F%87%B7%F0%9F%87%BARU-46.17.43.227-1352 | speed: 3.30 Mbps
+vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImhvc3QiOiIxNzIuNjYuMC4yNTEiLCJpZCI6IjhhOWFhYTcwLWNlZDktMTFmMS1iOTM0LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii84NzBhbzI2ZiIsInBvcnQiOiI4MCIsInBzIjoiZmlsZW1iYWQtMzgyIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ2IjoiMiJ9 | speed: 5.95 Mbps
+vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiMTcyLjY2LjAuMjUxIiwiaWQiOiI4YTlhYWE3MC1jZWQ5LTExZjEtYjkzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvODcwYW8yNmYiLCJwb3J0IjoiODAiLCJwcyI6ImZpbGVtYmFkLTM4MSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== | speed: 6.32 Mbps
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#filembad-310 | speed: 6.02 Mbps
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=&type=tcp#filembad-264 | speed: 16.55 Mbps
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&encryption=none&headerType=none&type=tcp#filembad-212 | speed: 10.31 Mbps
