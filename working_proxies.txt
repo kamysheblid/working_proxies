@@ -1,4 +1,2 @@
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.43.227:18443#%F0%9F%87%B7%F0%9F%87%BARU-46.17.43.227-1352 | speed: 1.81 Mbps
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#filembad-337 | speed: 3.41 Mbps
-vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@p2tun0.greewebservices.ir:28820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=e3085d4fc679ba12#filembad-265 | speed: 9.96 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYWllaDJOSnRhLTFkRDFPUG1yOHB2SjRqMUI4d25ZTQ@dns23.m3hrzd.ir:8044#filembad-8 | speed: 8.45 Mbps
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#filembad-337 | speed: 2.56 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location8.cpanel-host10.ir:56134#filembad-11 | 🇬🇧 speed: 6.03 Mbps
