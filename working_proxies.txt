@@ -1,2 +1,1 @@
-vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1NjA4MCIsInBzIjoiZmlsZW1iYWQtMzgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ== | speed: 2.88 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location8.cpanel-host10.ir:56134#filembad-10 | speed: 2.44 Mbps
+vless://b7d3a581-74d6-4ead-9235-ce9dedf08152@trdatair.egekaradecojistik.net.tr:35577?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#filembad-320 | speed: 11.68 Mbps
