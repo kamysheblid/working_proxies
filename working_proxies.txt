@@ -1,3 +1,2 @@
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&encryption=none&headerType=none&type=tcp# | speed: 5.99 Mbps
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=&encryption=none&headerType=none&type=tcp# | speed: 6.16 Mbps
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7# | speed: 8.29 Mbps
+vless://00ee2eeb-cb0e-453c-b151-c8cf28089d31@116.203.7.223:34257?encryption=none&security=reality&type=tcp&headerType=none&host=play.google.com&sni=play.google.com&fp=edge&pbk=5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk&sid=601e43eb94a28919# | speed: 15.01 Mbps
+vless://972be0be-1831-4b5e-b26b-3b6e139a1cd0@501.150333.xyz:21002?security=reality&encryption=none&pbk=OCs6EIBsSg-f8MW0RE7QDwjZafk09F1aGl7olF7yAW0&headerType=&type=tcp&sni=www.cloudflare.com&sid=48b41af29b500164# | 🇺🇸 speed: 5.07 Mbps
