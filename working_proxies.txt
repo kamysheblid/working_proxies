@@ -1,17 +1,15 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0212 | 🇺🇸 speed: 7.71 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0207 | speed: 6.42 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0204 | 🇺🇸 speed: 7.65 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.42-0176 | speed: 12.29 Mbps
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#%F0%9F%87%B7%F0%9F%87%BARU-46.17.46.27-0652 | speed: 5.92 Mbps
-vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiZmlsZW1iYWQtNDQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ== | speed: 6.60 Mbps
-vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@UsO.zqpm.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520#filembad-307 | 🇺🇸 speed: 7.74 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#filembad-71 | speed: 14.05 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#filembad-70 | speed: 3.03 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#filembad-69 | 🇺🇸 speed: 3.35 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#filembad-68 | 🇺🇸 speed: 3.10 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@xoo2exolqs.gadawebi.ir:5053#filembad-15 | speed: 12.86 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@ril4bhswdd.gadawebi.ir:58965#filembad-14 | speed: 3.19 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@hm8oiwfhrb.gadawebi.ir:5069#filembad-13 | speed: 13.01 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@gfq8fmbiyw.gadawebi.ir:5071#filembad-12 | speed: 8.57 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg==@iri750y8gl.gadawebi.ir:5050#filembad-11 | speed: 14.65 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg==@csbjvl2gdv.gadawebi.ir:5059#filembad-10 | speed: 12.32 Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%40V2rayng_Fast%20 | 🇺🇸 speed: 6.44 Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#%40V2rayng_Fast%20 | 🇺🇸 speed: 7.58 Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%40HajmVPN_Config%20-%20%F0%9F%87%A9%F0%9F%87%B0 | speed: 15.63 Mbps
+vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@UsO.zqpm.ir:8443?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520# | speed: 7.79 Mbps
+vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiYmF0Y2giOiAiIiwgImVjaENvbmZpZ0xpc3QiOiAiIiwgImVjaFNlcnZlcktleXMiOiAiIiwgImZha2Vob3N0X2RvbWFpbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJpbnRlcnZhbCI6ICIiLCAibGVuZ3RoIjogIiIsICJtdXgiOiAiIiwgIm11eENvbmN1cnJlbmN5IjogIiIsICJuZXQiOiAidGNwIiwgInBhY2tldHMiOiAiIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ4aHR0cF9leHRyYSI6ICIifQ== | speed: 6.46 Mbps
+vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiZmlsZW1iYWQtNDQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ== | speed: 6.28 Mbps
+vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@UsO.zqpm.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520#filembad-307 | speed: 6.71 Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#filembad-69 | speed: 3.27 Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#filembad-62 | 🇺🇸 speed: 3.33 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#filembad-25 | speed: 15.23 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@ril4bhswdd.gadawebi.ir:58965#filembad-14 | speed: 3.18 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@hm8oiwfhrb.gadawebi.ir:5069#filembad-13 | speed: 15.02 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@gfq8fmbiyw.gadawebi.ir:5071#filembad-12 | speed: 11.36 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg==@iri750y8gl.gadawebi.ir:5050#filembad-11 | speed: 15.24 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg==@csbjvl2gdv.gadawebi.ir:5059#filembad-10 | speed: 12.36 Mbps
