@@ -1,14 +1,9 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%40V2rayng_Fast%20 | 🇺🇸 speed: 7.55 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%40HajmVPN_Config%20-%20%F0%9F%87%A9%F0%9F%87%B0 | speed: 14.82 Mbps
-vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@areal3.greewebservices.ir:4445?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12# | speed: 11.19 Mbps
-vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@areal1.greewebservices.ir:2425?security=reality&encryption=none&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3# | speed: 10.39 Mbps
-vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@p2real33.greewebservices.ir:1330?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3# | speed: 11.00 Mbps
-vless://6324c880-9fe5-49f9-9e19-85c7961310e6@iproxyland.beshdash.ir:56261?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=l0-zdwMIQVnlzi6s9aWF9ntecqRkCFf091RZ_Mv8B1E&fp=chrome&spx=%2FSiNaEqfCqzDpOLE&type=xhttp&sni=www.nvidia.com&sid=163d8ed90592# | speed: 12.58 Mbps
-vless://6324c880-9fe5-49f9-9e19-85c7961310e6@iproxyland.beshdash.ir:58545?security=reality&encryption=none&pbk=Hm9C1tP40Uc-a8e2NQBUUM_uCkKVts3Fcedoo8EI8xU&headerType=none&fp=firefox&spx=%2FvJuHsSoClBSe5ga&type=tcp&sni=lamssettings-pa.googleapis.com&sid=9c2042# | speed: 9.28 Mbps
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%B7 | speed: 4.03 Mbps
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%B7 | speed: 3.86 Mbps
-vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@bigshagy.zqpm.ir:5780?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#filembad-313 | 🇩🇪 speed: 3.86 Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443?type=tcp&headerType=none#filembad-76 | speed: 16.52 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYUBkbnMyNC5tM2hyemQuaXI6ODA0NA==#filembad-10 | speed: 5.43 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns24.m3hrzd.ir:8044#filembad-7 | speed: 4.85 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-6 | speed: 16.11 Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%40V2rayng_Fast%20 | 🇺🇸 speed: 7.82 Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%40HajmVPN_Config%20-%20%F0%9F%87%A9%F0%9F%87%B0 | speed: 15.71 Mbps
+vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@areal3.greewebservices.ir:4445?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12# | speed: 11.27 Mbps
+vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@areal1.greewebservices.ir:2425?security=reality&encryption=none&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3# | 🇧🇬 speed: 10.11 Mbps
+vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@p2real33.greewebservices.ir:1330?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3# | speed: 10.63 Mbps
+vless://6324c880-9fe5-49f9-9e19-85c7961310e6@iproxyland.beshdash.ir:56261?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=l0-zdwMIQVnlzi6s9aWF9ntecqRkCFf091RZ_Mv8B1E&fp=chrome&spx=%2FSiNaEqfCqzDpOLE&type=xhttp&sni=www.nvidia.com&sid=163d8ed90592# | 🇫🇮 speed: 13.55 Mbps
+vless://6324c880-9fe5-49f9-9e19-85c7961310e6@iproxyland.beshdash.ir:58545?security=reality&encryption=none&pbk=Hm9C1tP40Uc-a8e2NQBUUM_uCkKVts3Fcedoo8EI8xU&headerType=none&fp=firefox&spx=%2FvJuHsSoClBSe5ga&type=tcp&sni=lamssettings-pa.googleapis.com&sid=9c2042# | speed: 8.44 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYUBkbnMyNC5tM2hyemQuaXI6ODA0NA==#filembad-10 | 🇳🇱 speed: 16.35 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns27.m3hrzd.ir:8044?#filembad-9 | 🇳🇱 speed: 17.75 Mbps
