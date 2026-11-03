@@ -1,2 +1,4 @@
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.186.11:80?security=none&type=tcp# | speed: 5.92 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns24.m3hrzd.ir:8044#filembad-8 | speed: 12.77 Mbps
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.186.11:80?security=none&type=tcp# | speed: 6.07 Mbps
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&security=none&type=ws&host=dnld.chaqalli.com&path=%2F# | speed: 2.29 Mbps
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#%F0%9F%87%B7%F0%9F%87%BARU-46.17.46.27-0280 | speed: 6.13 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-7 | speed: 14.32 Mbps
