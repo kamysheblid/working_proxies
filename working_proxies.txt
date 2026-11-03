@@ -1,3 +1,2 @@
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.186.11:80?security=none&type=tcp# | speed: 5.29 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns24.m3hrzd.ir:8044#filembad-8 | speed: 2.68 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-7 | speed: 2.63 Mbps
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.186.11:80?security=none&type=tcp# | speed: 6.17 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-7 | speed: 8.91 Mbps
