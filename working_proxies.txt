@@ -1,7 +1,3 @@
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.186.11:80?security=none&type=tcp# | speed: 3.45 Mbps
-vless://57ca9dd0-6f42-4f02-aec9-7d5afcfed351@mojtun.mlbaz.ir:666?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=D2MOyedVJ-3Qvw1Knw54eZYMA6lS03UcVMlaUSEPF2Y&fp=chrome&spx=%2F242a1b02eb87af6&type=xhttp&sni=www.aparat.com&sid=23bfe800# | speed: 17.10 Mbps
-vless://ba446f9d-c23f-4e28-a4d3-4020e2287b25@docs.asasin4.ir:30940?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=pu8u1rdI0UHQfAppyMwbKmKQjTIS0HXmGNUG3UzEdy0&sid=d9cc6f4a&spx=%2F&type=tcp&headerType=none# | speed: 11.07 Mbps
-vless://6324c880-9fe5-49f9-9e19-85c7961310e6@iproxyland.beshdash.ir:56261?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=l0-zdwMIQVnlzi6s9aWF9ntecqRkCFf091RZ_Mv8B1E&fp=chrome&spx=%2FSiNaEqfCqzDpOLE&type=xhttp&sni=www.nvidia.com&sid=163d8ed90592# | speed: 11.53 Mbps
-vless://6324c880-9fe5-49f9-9e19-85c7961310e6@iproxyland.beshdash.ir:58545?security=reality&encryption=none&pbk=Hm9C1tP40Uc-a8e2NQBUUM_uCkKVts3Fcedoo8EI8xU&headerType=none&fp=firefox&spx=%2FvJuHsSoClBSe5ga&type=tcp&sni=lamssettings-pa.googleapis.com&sid=9c2042# | speed: 8.72 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns27.m3hrzd.ir:8044#filembad-10 | 🇳🇱 speed: 4.06 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-8 | speed: 6.64 Mbps
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.186.11:80?security=none&type=tcp# | speed: 5.29 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns24.m3hrzd.ir:8044#filembad-8 | speed: 2.68 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-7 | speed: 2.63 Mbps
