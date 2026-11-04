@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns27.m3hrzd.ir:8044#filembad-7 | speed: 2.95 Mbps
+vless://fed54c61-b3f9-4d0c-aaf0-3628125966bc@100.55.27.211:10413?security=reality&type=tcp&sni=yahoo.com&fp=firefox&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ# | speed: 4.15 Mbps
+vless://fed54c61-b3f9-4d0c-aaf0-3628125966bc@100.55.27.211:10413?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ# | speed: 4.08 Mbps
