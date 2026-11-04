@@ -1,4 +1,0 @@
-vless://fed54c61-b3f9-4d0c-aaf0-3628125966bc@100.55.27.211:10413?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ# | speed: 4.01 Mbps
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=none&encryption=none&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp# | speed: 16.18 Mbps
-vless://fed54c61-b3f9-4d0c-aaf0-3628125966bc@100.55.27.211:10413?security=reality&type=tcp&sni=yahoo.com&fp=firefox&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ# | speed: 4.33 Mbps
-vless://fb1d2d8a-d9bd-496f-9d5f-f179cbd00123@p2real1.greewebservices.ir:1310?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3# | speed: 15.25 Mbps
