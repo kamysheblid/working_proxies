@@ -1,7 +1,1 @@
-vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?encryption=none&security=none&serviceName=vless&type=grpc# | speed: 14.57 Mbps
-vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?security=&encryption=none&type=grpc&serviceName=vless# | speed: 13.14 Mbps
-vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?mode=gun&security=&encryption=none&type=grpc&serviceName=vless# | speed: 15.01 Mbps
-vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#filembad-302 | speed: 15.24 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759#filembad-19 | speed: 2.50 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns24.m3hrzd.ir:8044#filembad-11 | speed: 4.89 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns24.m3hrzd.ir:1352#filembad-10 | speed: 2.91 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns27.m3hrzd.ir:8044#filembad-7 | speed: 2.95 Mbps
