@@ -1,3 +1,4 @@
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&security=none&type=ws&host=dnld.chaqalli.com&path=%2F# | speed: 12.60 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns27.m3hrzd.ir:8044#filembad-9 | speed: 12.13 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-7 | speed: 15.36 Mbps
+vless://7b91b2c3-8af3-449b-a555-00c9460989f4@lvi.su:443?path=%2Fvpn-relay%3Ftoken%3D27fede42482b3c29d4c1c9640876c250%26pool%3Dwhitelist2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lvi.su&fp=chrome&type=ws&allowInsecure=0&sni=lvi.su#%40V2rayng_Fast%20 | 🇩🇪 speed: 1.59 Mbps
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&security=none&type=ws&host=dnld.chaqalli.com&path=%2F# | 🇮🇷 speed: 12.73 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns27.m3hrzd.ir:8044#filembad-9 | speed: 3.91 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#filembad-7 | 🇳🇱 speed: 10.54 Mbps
