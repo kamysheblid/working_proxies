@@ -1,3 +1,7 @@
-vless://fe1cfc86-a077-403f-afc7-b97cee3f15e1@static.84.151.104.178.clients.your-server.de:41432?security=none&headerType=none&host=play-apps-features.googleusercontent.com&encryption=none&type=tcp#filembad-418 | 🇩🇪 speed: 14.96 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#filembad-71 | 🇸🇬 speed: 4.40 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw==@dns27.m3hrzd.ir:1353#filembad-3 | 🇳🇱 speed: 1.80 Mbps
+vless://fe1cfc86-a077-403f-afc7-b97cee3f15e1@static.84.151.104.178.clients.your-server.de:41432?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=none&type=tcp# | speed: 14.13 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=none&encryption=none&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp# | speed: 4.80 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=&encryption=none&headerType=none&type=tcp#filembad-264 | speed: 1.55 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5061?security=&encryption=none&headerType=none&type=tcp#filembad-259 | speed: 3.59 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5055?security=&encryption=none&headerType=none&type=tcp#filembad-257 | speed: 4.22 Mbps
+ss://YWVzLTI1Ni1nY206b3NvVm42cE0xa19yVUpRQnlPUmI2Zw@51.75.118.5:20222#filembad-74 | speed: 2.68 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#filembad-71 | speed: 5.77 Mbps
