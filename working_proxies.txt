@@ -1,1 +1,4 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#filembad-72 | speed: 6.08 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5071?security=&encryption=none&headerType=none&type=tcp#filembad-270 | speed: 2.03 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5059?security=&encryption=none&headerType=none&type=tcp#filembad-266 | speed: 5.07 Mbps
+trojan://19f77982-8b59-4405-b153-9f6b42ca9016@51.75.118.79:20366?path=%2Fbp-trojan&security=none&type=ws#filembad-77 | speed: 11.07 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#filembad-72 | speed: 6.24 Mbps
