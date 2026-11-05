@@ -1,1 +1,3 @@
-trojan://19f77982-8b59-4405-b153-9f6b42ca9016@51.75.118.79:20366?path=%2Fbp-trojan&security=none&type=ws#filembad-77 | speed: 14.27 Mbps
+vless://7b91b2c3-8af3-449b-a555-00c9460989f4@lvi.su:443?path=%2Fvpn-relay%3Ftoken%3D27fede42482b3c29d4c1c9640876c250%26pool%3Dwhitelist2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lvi.su&fp=chrome&type=ws&allowInsecure=0&sni=lvi.su#%40V2rayng_Fast%20 | 🇩🇪 speed: 4.22 Mbps
+vless://fe1cfc86-a077-403f-afc7-b97cee3f15e1@static.84.151.104.178.clients.your-server.de:41432?security=none&headerType=none&host=play-apps-features.googleusercontent.com&encryption=none&type=tcp#filembad-418 | 🇩🇪 speed: 15.82 Mbps
+trojan://19f77982-8b59-4405-b153-9f6b42ca9016@51.75.118.79:20366?path=%2Fbp-trojan&security=none&type=ws#filembad-77 | speed: 12.00 Mbps
