@@ -1,1 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw==@dns27.m3hrzd.ir:1353#filembad-3 | speed: 1.88 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=none&encryption=none&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp#filembad-265 | 🇺🇸 speed: 4.08 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=&encryption=none&headerType=none&type=tcp#filembad-264 | speed: 4.03 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5071?security=&encryption=none&headerType=none&type=tcp#filembad-262 | 🇺🇸 speed: 4.17 Mbps
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#filembad-71 | speed: 6.04 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw==@dns27.m3hrzd.ir:1353#filembad-3 | speed: 12.90 Mbps
