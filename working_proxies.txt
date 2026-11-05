@@ -1,0 +1,3 @@
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=none&encryption=none&headerType=none&type=tcp# | speed: 9.44 Mbps
+vless://e8b1e648-61d0-4d2b-b201-42ac356208c0@191.101.44.113:32498?security=reality&encryption=none&pbk=pL7pLCpUYQ1D8OM_WxZfLRKtc_gsXJ161YCkEuF6wG4&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=8c026d7eeacbc2b5# | speed: 2.98 Mbps
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=none&encryption=none&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp# | speed: 9.52 Mbps
