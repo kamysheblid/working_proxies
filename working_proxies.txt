@@ -1,5 +1,3 @@
-vmess://eyJhZGQiOiAiMTA5LjcwLjc0LjE0OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTgwZWIxNWQtMTg2YS00ZmNkLThlNGItOGQ3M2I1YmMyZjE5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTc0MDIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0= | speed: 17.74 Mbps
-vless://fe1cfc86-a077-403f-afc7-b97cee3f15e1@static.84.151.104.178.clients.your-server.de:41432?security=none&headerType=none&host=play-apps-features.googleusercontent.com&encryption=none&type=tcp#filembad-418 | speed: 7.24 Mbps
-trojan://19f77982-8b59-4405-b153-9f6b42ca9016@51.75.118.79:20366?path=%2Fbp-trojan&security=none&type=ws#filembad-77 | speed: 14.39 Mbps
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#filembad-71 | speed: 6.72 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw==@dns27.m3hrzd.ir:1353#filembad-3 | speed: 14.68 Mbps
+vless://fe1cfc86-a077-403f-afc7-b97cee3f15e1@static.84.151.104.178.clients.your-server.de:41432?security=none&headerType=none&host=play-apps-features.googleusercontent.com&encryption=none&type=tcp#filembad-418 | speed: 7.83 Mbps
+trojan://19f77982-8b59-4405-b153-9f6b42ca9016@51.75.118.79:20366?path=%2Fbp-trojan&security=none&type=ws#filembad-77 | speed: 13.40 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw==@dns27.m3hrzd.ir:1353#filembad-3 | speed: 2.12 Mbps
