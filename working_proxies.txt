@@ -1,1 +1,4 @@
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443?#filembad-24 | speed: 8.22 Mbps
+vless://a5acbf10-25ef-4ecc-a652-c8fcbcdb4ab1@77.112.133.160:36896?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=2XKHM7uQObdzgVnu2gubysdXLyBCpZRJtCtfOd4tcF0&fp=chrome&spx=%2F378c54211cf55ea&type=xhttp&sni=gateway-india.icloud.com&sid=14# | speed: 10.10 Mbps
+vless://a79598d6-a50b-43cc-a6d3-368ff2cff03c@5.253.233.248:443?security=reality&encryption=none&pbk=C0xfTls1HJAFMCfNqQ96mIw3qcbXaWFvWvfboYGFRls&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=9eec00914ab87f37#filembad-235 | speed: 13.11 Mbps
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443?#filembad-25 | speed: 5.07 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#filembad-12 | speed: 5.89 Mbps
