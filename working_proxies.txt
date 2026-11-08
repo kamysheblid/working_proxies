@@ -1,0 +1,3 @@
+vmess://test1
+trojan://test2
+ss://test3
