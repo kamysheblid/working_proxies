@@ -1,2 +1,1 @@
-http://@128.199.113.85:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.113.85-0647 | speed: 1.66 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbWJNc3REampCTnR4RmMw@20.164.217.73:443#filembad-8 | speed: 5.87 Mbps
+http://@128.199.113.85:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.113.85-0647 | speed: 5.49 Mbps
