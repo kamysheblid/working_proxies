@@ -1,0 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#%F0%9F%87%B7%F0%9F%87%BARU-130.49.189.158-0496 | 🇦🇱 speed: 13.09 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759#%F0%9F%87%B3%F0%9F%87%B1NL-77.221.132.206-0550 | speed: 15.47 Mbps
+http://@128.199.113.85:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.113.85-0647 | speed: 6.01 Mbps
+vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#filembad-258 | speed: 9.37 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#filembad-11 | speed: 6.72 Mbps
