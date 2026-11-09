@@ -1,8 +1,1 @@
-vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&fp=chrome&type=xhttp&sni=www.aparat.com&sid=2f567c6d# | 🇮🇷 speed: 2.04 Mbps
-vless://855c7aaa-e7d6-463e-971e-d36032744428@159.195.207.238:49313?encryption=none&security=none&type=tcp# | 🇩🇪 speed: 14.85 Mbps
-vless://855c7aaa-e7d6-463e-971e-d36032744428@159.195.207.238:49313?security=none&encryption=none&headerType=none&type=tcp# | 🇩🇪 speed: 16.07 Mbps
-vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&path=%2F&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&fp=chrome&spx=%2F&type=xhttp&sni=www.aparat.com&sid=2f567c6d# | 🇮🇷 speed: 2.63 Mbps
-vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&path=%2F&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&host=copy_Shode_az_Chanel0111Net&fp=chrome&spx=%2F&type=xhttp&sni=www.aparat.com&sid=2f567c6d# | 🇮🇷 speed: 2.67 Mbps
-vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?encryption=none&security=reality&sni=www.aparat.com&fp=chrome&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&sid=2f567c6d&spx=%2F&type=xhttp&path=%2F&mode=auto# | 🇮🇷 speed: 2.32 Mbps
-vless://95f85937-7b95-45c4-8d69-95da6a978569@80.47.13.182:443?encryption=none&security=tls&sni=dl.megadrishto.com&fp=firefox&type=grpc&authority=&serviceName=stats.v2.StreamService&mode=gun# | 🇬🇧 speed: 18.66 Mbps
-vless://95f85937-7b95-45c4-8d69-95da6a978569@80.47.13.182:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=stats.v2.StreamService&allowInsecure=0&sni=dl.megadrishto.com# | 🇬🇧 speed: 2.13 Mbps
+vless://test1 | speed: 5.00 Mbps
