@@ -1,6 +1,0 @@
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&fp=edge&spx=%2FyGKROYpW7YoNBsh&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf# | 🇺🇸 speed: 3.86 Mbps
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.223.199.97:80?security=none&type=tcp&encryption=none# | 🇨🇦 speed: 7.29 Mbps
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@3.96.205.233:80?security=none&type=tcp&encryption=none# | 🇨🇦 speed: 6.90 Mbps
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@16.52.85.58:80?security=none&type=tcp&encryption=none# | 🇨🇦 speed: 8.26 Mbps
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&fp=edge&spx=%2FyGKROYpW7YoNBsh&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf# | 🇺🇸 speed: 4.19 Mbps
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?encryption=none&fp=edge&mode=auto&path=%2F&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&security=reality&sid=728f3f459ddf&sni=yandex-cdn-mirror.ru&spx=%2FyGKROYpW7YoNBsh&type=xhttp# | 🇺🇸 speed: 4.72 Mbps
