@@ -1,0 +1,2 @@
+vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=%2F&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&fp=edge&spx=%2FyGKROYpW7YoNBsh&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf# | 🇺🇸 speed: 12.10 Mbps
+vless://ade238d6-637e-4f6c-b1fc-268579b262f5@vless1.greewebservices.ir:443?encryption=none&type=ws&host=vless1.greewebservices.ir&path=/timer/&security=tls&fp=chrome&sni=vless1.greewebservices.ir&alpn=http/1.1# | 🇩🇪 speed: 13.24 Mbps
