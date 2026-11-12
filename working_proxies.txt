@@ -1,3 +1,0 @@
-vless://95125db7-8f75-4946-a327-03ca0792e36e@s1.berluno.ir:1155?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8&spx=%2Fexample# | speed: 15.69 Mbps
-vless://95125db7-8f75-4946-a327-03ca0792e36e@s1.berluno.ir:1155?security=reality&encryption=none&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&headerType=none&fp=edge&spx=%2Fexample&type=tcp&sni=tgju.org&sid=4e4aaad65cc07da8# | speed: 14.67 Mbps
-vless://95125db7-8f75-4946-a327-03ca0792e36e@s1.berluno.ir:1155?encryption=none&security=reality&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8&spx=%2Fexample&type=tcp&headerType=none# | speed: 11.04 Mbps
