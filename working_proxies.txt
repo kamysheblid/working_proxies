@@ -1,0 +1,2 @@
+vless://bcbd26d1-2e77-48d6-bce9-d8138cf6703b@s1.berluno.ir:1155?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8&spx=%2Fexample#filembad-368 | 🇩🇪 speed: 15.37 Mbps
+vless://bcbd26d1-2e77-48d6-bce9-d8138cf6703b@s1.berluno.ir:1155?security=reality&encryption=none&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&headerType=none&fp=edge&spx=%2Fexample&type=tcp&sni=tgju.org&sid=4e4aaad65cc07da8#filembad-367 | 🇩🇪 speed: 14.13 Mbps
