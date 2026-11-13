@@ -1,5 +1,2 @@
-vless://3c999d74-d578-4deb-8683-b017bf6598f0@s1.berluno.ir:1155?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8&spx=%2Fexample# | 🇩🇪 speed: 13.11 Mbps
-vless://e0eb33db-f900-4918-a91e-e960549eb519@s1.berluno.ir:1155?security=reality&encryption=none&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=edge&spx=%2Fexample&type=tcp&sni=tgju.org&sid=4e4aaad65cc07da8# | 🇫🇮 speed: 10.07 Mbps
-vless://e0eb33db-f900-4918-a91e-e960549eb519@s1.berluno.ir:1155?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8&spx=%2Fexample# | 🇫🇮 speed: 11.68 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#%F0%9F%87%AE%F0%9F%87%B9IT-57.131.4.13-0637 | 🇮🇹 speed: 4.32 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#%F0%9F%87%AB%F0%9F%87%B7FR-51.83.61.102-0263 | 🇫🇷 speed: 9.74 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#%F0%9F%87%AE%F0%9F%87%B9IT-57.131.4.13-0637 | 🇮🇹 speed: 2.25 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#%F0%9F%87%AB%F0%9F%87%B7FR-51.83.61.102-0263 | 🇫🇷 speed: 3.84 Mbps
