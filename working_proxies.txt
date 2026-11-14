@@ -1,0 +1,1 @@
+vless://0b7730eb-042f-4389-a430-d6909466a46a@snapp.ir:8880?encryption=none&security=none&type=ws&host=one.devenat.ir&path=%2F#filembad-76 | 🇮🇷 speed: 13.45 Mbps
