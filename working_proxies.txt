@@ -1,3 +1,1 @@
-vless://5ecb0bdc-face-4440-856d-39d5945b40da@109.70.74.43:15131?security=reality&encryption=none&pbk=2LFxjSiij2_ZNt5vYcTykcsj5gzQabII_8T2NeZ3ex0&headerType=none&fp=chrome&spx=%2F3b833b650fe111d&type=tcp&sni=hub.partners.nvidia.com&sid=a106#filembad-227 | 🇩🇪 speed: 12.33 Mbps
-vless://0b7730eb-042f-4389-a430-d6909466a46a@snapp.ir:8880?encryption=none&security=none&type=ws&host=one.devenat.ir&path=%2F#filembad-86 | 🇮🇷 speed: 19.57 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080?#filembad-41 | 🇮🇹 speed: 13.79 Mbps
+vless://5ecb0bdc-face-4440-856d-39d5945b40da@109.70.74.43:15131?security=reality&encryption=none&pbk=2LFxjSiij2_ZNt5vYcTykcsj5gzQabII_8T2NeZ3ex0&headerType=none&fp=chrome&spx=%2F3b833b650fe111d&type=tcp&sni=hub.partners.nvidia.com&sid=a106#filembad-227 | 🇩🇪 speed: 11.08 Mbps
