@@ -1,0 +1,2 @@
+vless://d4cc658e-2986-47e7-97fa-1e9f7f4b8d84@65.109.190.211:28478?encryption=none&security=none&type=tcp#filembad-348 | 🇫🇮 speed: 12.90 Mbps
+vless://aa2f914a-1287-4e68-a239-b99cf3c46498@65.109.190.211:26839?encryption=none&security=none&type=tcp#filembad-313 | 🇫🇮 speed: 14.30 Mbps
