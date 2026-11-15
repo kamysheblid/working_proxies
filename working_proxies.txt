@@ -1,1 +1,2 @@
-vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?security=reality&encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=www.amd.com&sid=836c3060#filembad-265 | 🇷🇺 speed: 4.21 Mbps
+vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?security=reality&encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=www.amd.com&sid=836c3060#filembad-265 | 🇷🇺 speed: 6.90 Mbps
+vless://00f1cd55-049c-492c-b15b-df360d8bcde3@51.75.118.18:20113?path=%2Fvless-ws&security=none&encryption=none&type=ws#filembad-67 | 🇫🇷 speed: 10.62 Mbps
