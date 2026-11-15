@@ -1,1 +1,3 @@
-vless://2e2ec791-871d-43f1-9b18-a0ff0dd51778@rs9.zapkey.ir:30000?fp=chrome&pbk=nBQXLj3YR6mFInTq62nVTMt1cLOtgTizM-ml02m2ulM&security=reality&sid=818c51da&sni=www.speedtest.net&spx=%2FVnFfmBtvvsL1ynX&type=tcp#filembad-130 | 🇮🇷 speed: 16.59 Mbps
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?mode=stream-one&path=%2Fes&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=7d1a74fd.ferrin.uk#%40V2rayng_Fast | 🇳🇱 speed: 6.42 Mbps
+vless://91636939-4fc1-41e4-8ba0-b851bebc92dd@91.107.147.12:50484?encryption=none&security=none&type=tcp# | 🇩🇪 speed: 5.93 Mbps
+vless://2e2ec791-871d-43f1-9b18-a0ff0dd51778@rs9.zapkey.ir:30000?fp=chrome&pbk=nBQXLj3YR6mFInTq62nVTMt1cLOtgTizM-ml02m2ulM&security=reality&sid=818c51da&sni=www.speedtest.net&spx=%2FVnFfmBtvvsL1ynX&type=tcp#filembad-130 | 🇮🇷 speed: 9.96 Mbps
