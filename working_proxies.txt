@@ -1,1 +1,1 @@
-vless://cb024c9c-2a4b-4adf-a2b6-cc9c5077fc36@tsaujxjdj.zefmul.ir:8021?security=reality&encryption=none&pbk=ILnZwALWgpb1HZ2eE58jgNCbUt8ul73tSNXmr05SNgU&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=05d15772f3cb403a#filembad-343 | 🇸🇪 speed: 6.32 Mbps
+vless://05981755-8790-41f1-8aa0-f59c094f8bf4@fast.jexmuk.ir:44989?security=none&encryption=mlkem768x25519plus.native.0rtt.I1bL1-wOzFEWuOjlb2baSe5PyncUT5Tv1xEdxxNzwxs&headerType=none&type=tcp#filembad-59 | 🇩🇰 speed: 9.98 Mbps
