@@ -1,2 +1,1 @@
-vless://666804a9-d60b-4145-8767-e9e1b0eef266@206.1.101.160:8451?security=none&encryption=none&headerType=none&type=tcp#filembad-238 | 🇺🇸 speed: 10.58 Mbps
-vless://05981755-8790-41f1-8aa0-f59c094f8bf4@fast.jexmuk.ir:44989?security=none&encryption=mlkem768x25519plus.native.0rtt.I1bL1-wOzFEWuOjlb2baSe5PyncUT5Tv1xEdxxNzwxs&headerType=none&type=tcp#filembad-72 | speed: 11.02 Mbps
+vless://836c4d68-e086-11f1-aabc-67841df8a6f9@185.65.202.122:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#filembad-270 | 🇩🇪 speed: 5.09 Mbps
