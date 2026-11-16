@@ -1,2 +1,0 @@
-vless://2e2ec791-871d-43f1-9b18-a0ff0dd51778@rs9.zapkey.ir:30000?security=reality&encryption=none&pbk=nBQXLj3YR6mFInTq62nVTMt1cLOtgTizM-ml02m2ulM&headerType=none&fp=chrome&spx=%2FVnFfmBtvvsL1ynX&type=tcp&sni=www.speedtest.net&sid=818c51da#filembad-131 | speed: 14.49 Mbps
-vless://00f1cd55-049c-492c-b15b-df360d8bcde3@51.75.118.18:20113?path=%2Fvless-ws&security=none&encryption=none&type=ws#filembad-64 | 🇫🇷 speed: 9.19 Mbps
