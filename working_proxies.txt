@@ -1,4 +1,1 @@
-vless://f6a9376f-87de-45c1-902f-05ab773ce333@109.94.164.115:2070?security=reality&encryption=none&pbk=WZ0GmAztQy5OSLWgsYUW5VIZEaCiy_s-iILHB_i5gUo&headerType=none&fp=chrome&type=tcp&sni=www.intel.com&sid=bbba1d#filembad-422 | 🇮🇷 speed: 10.47 Mbps
-vless://f6a9376f-87de-45c1-902f-05ab773ce333@109.94.164.115:2070?security=reality&encryption=none&pbk=WZ0GmAztQy5OSLWgsYUW5VIZEaCiy_s-iILHB_i5gUo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.intel.com&sid=bbba1d#filembad-421 | 🇮🇷 speed: 4.17 Mbps
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.83.197:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#filembad-312 | 🇱🇹 speed: 13.55 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwb3I3RXUwcXF4SG1HTUE5bVJYeXM5a1I3dThnN0tHeU5JeFVOVA@192.144.59.146:29348#filembad-40 | 🇷🇺 speed: 10.12 Mbps
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.83.197:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#filembad-312 | 🇱🇹 speed: 12.87 Mbps
