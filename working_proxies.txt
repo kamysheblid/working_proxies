@@ -1,2 +1,1 @@
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.46:443?encryption=none&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=tr1b.galioncc.com&type=tcp#filembad-308 | 🇹🇷 speed: 2.71 Mbps
-vless://9d464bfa-c8b2-4a4f-9bf7-9ec31b339b67@varzesh.com.tiket.paxaro.ir:4433?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#canfingV2rayNG-294 | speed: 16.23 Mbps
+vless://9d464bfa-c8b2-4a4f-9bf7-9ec31b339b67@varzesh.com.tiket.paxaro.ir:4433?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#canfingV2rayNG-294 | 🇳🇱 speed: 7.52 Mbps
