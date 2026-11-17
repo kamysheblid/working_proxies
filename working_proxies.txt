@@ -1,0 +1,2 @@
+vless://9d464bfa-c8b2-4a4f-9bf7-9ec31b339b67@varzesh.com.tiket.paxaro.ir:4433?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#canfingV2rayNG-294 | 🇳🇱 speed: 2.54 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443#filembad-27 | 🇿🇦 speed: 0.17 Mbps
