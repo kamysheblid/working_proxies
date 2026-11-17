@@ -1,2 +1,2 @@
-http://@167.172.76.176:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-167.172.76.176-0588 | 🇸🇬 speed: 5.57 Mbps
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.46:443?encryption=none&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=tr1b.galioncc.com&type=tcp#filembad-308 | 🇹🇷 speed: 1.82 Mbps
+http://@167.172.76.176:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-167.172.76.176-0588 | 🇸🇬 speed: 4.75 Mbps
+vless://8b62df68-a753-423c-b10a-b1ec4bc2d6de@31.56.196.203:2083?encryption=mlkem768x25519plus.native.0rtt.K6K8iRSLM8ATkFyFW4BV1uOCmq2Eyja3O1FKqdLAlhU&security=none&type=tcp#filembad-266 | 🇫🇮 speed: 3.33 Mbps
