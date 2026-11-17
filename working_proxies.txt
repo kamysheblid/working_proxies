@@ -1,2 +1,0 @@
-http://@167.172.76.176:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-167.172.76.176-0588 | 🇸🇬 speed: 4.87 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443#filembad-27 | 🇿🇦 speed: 0.22 Mbps
