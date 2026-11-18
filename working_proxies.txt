@@ -1,2 +1,4 @@
-vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?security=none&encryption=none&headerType=none&type=tcp#filembad-333 | 🇺🇦 speed: 3.50 Mbps
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#filembad-42 | 🇧🇷 speed: 9.09 Mbps
+vless://baaa4c32-a606-4b5d-802f-17a4c0adea22@182.16.69.178:443?security=reality&encryption=none&pbk=hLH987c7kuDMVFHiw2ErecWQhwMKIPOwZsBLGrpN6io&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com&sid=240c30abe706# | 🇭🇰 speed: 3.53 Mbps
+vless://134bdd1a-699c-4dc1-9b0b-8ebea176bd35@51.20.128.233:20002?encryption=none&security=none&type=tcp# | 🇸🇪 speed: 6.31 Mbps
+vless://FastKey_849087@48.103.218.226:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws# | 🇺🇸 speed: 3.42 Mbps
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#filembad-42 | 🇧🇷 speed: 2.99 Mbps
