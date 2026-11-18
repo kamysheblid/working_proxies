@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#filembad-42 | 🇧🇷 speed: 7.74 Mbps
+vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?security=none&encryption=none&headerType=none&type=tcp#filembad-333 | 🇺🇦 speed: 3.50 Mbps
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#filembad-42 | 🇧🇷 speed: 9.09 Mbps
