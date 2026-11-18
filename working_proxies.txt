@@ -1,1 +1,2 @@
-vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?type=tcp&security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#filembad-298 | speed: 3.17 Mbps
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?type=tcp&security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#filembad-288 | speed: 1.77 Mbps
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#filembad-42 | 🇧🇷 speed: 5.25 Mbps
