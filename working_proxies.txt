@@ -1,0 +1,4 @@
+vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@94.249.198.124:31652?security=none&encryption=none&headerType=none&type=tcp# | 🇩🇪 speed: 2.90 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ@tr.subscriptionservice.ir:2089#filembad-34 | speed: 2.44 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ@64.49.13.12:2089#filembad-33 | 🇺🇸 speed: 3.50 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNkZQeDliajdnZWwwUEdadEdJWUlMRzFYaVhWblEzNw@tr.subscriptionservice.ir:2089#filembad-20 | speed: 2.61 Mbps
