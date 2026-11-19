@@ -1,9 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#%F0%9F%87%B7%F0%9F%87%BARU-130.49.189.158-0227 | 🇷🇺 speed: 5.18 Mbps
-vmess://eyJhZGQiOiI0NS43Ni4xMDAuMjM4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImVlMjkyN2Y2LWI3NmEtNDAxMS05NTdjLWZlN2M0ODY1YjM2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiIxMDA4NiIsInBzIjoiZmlsZW1iYWQtNDUzIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== | speed: 4.40 Mbps
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#filembad-338 | 🇱🇹 speed: 11.72 Mbps
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@46.247.109.32:443?security=reality&encryption=none&pbk=K41mxSIT1WcM8QEiZQxs7n_qOroaPucFMHamzWICKVQ&headerType=none&fp=firefox&type=tcp&sni=graff.cosmograff.com#filembad-296 | 🇩🇪 speed: 11.57 Mbps
-vless://401c23eb-191b-4934-abb4-4a277d5870ba@out2.amirport.ir:82?encryption=none&security=none&type=tcp&headerType=none#filembad-144 | speed: 14.33 Mbps
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#filembad-45 | 🇬🇧 speed: 7.76 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKWWV2T3JtdWp1ckpzTlAxYXRhMGtOZmpzeHdGTEFoZ0Q3M21yWlBKUDFJPQ@130.49.189.158:43558#filembad-20 | 🇷🇺 speed: 12.52 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#filembad-18 | 🇷🇺 speed: 10.07 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU3hMWEZ0b21ZOXlwTzRvOHJyTldFcE5TWkVGenNNbmZoQkVUVWQzb093PQ@130.49.189.158:43558#filembad-16 | 🇷🇺 speed: 12.24 Mbps
+vmess://eyJhZGQiOiI0NS43Ni4xMDAuMjM4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImVlMjkyN2Y2LWI3NmEtNDAxMS05NTdjLWZlN2M0ODY1YjM2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiIxMDA4NiIsInBzIjoiZmlsZW1iYWQtNDUzIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== | speed: 4.29 Mbps
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=svc-io-mgr.galioncc.com&sid=a7d309e4c16b825f#filembad-338 | 🇱🇹 speed: 13.76 Mbps
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@46.247.109.32:443?security=reality&encryption=none&pbk=K41mxSIT1WcM8QEiZQxs7n_qOroaPucFMHamzWICKVQ&headerType=none&fp=firefox&type=tcp&sni=graff.cosmograff.com#filembad-296 | 🇩🇪 speed: 15.20 Mbps
+vless://401c23eb-191b-4934-abb4-4a277d5870ba@out2.amirport.ir:82?encryption=none&security=none&type=tcp&headerType=none#filembad-144 | speed: 14.47 Mbps
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#filembad-45 | 🇬🇧 speed: 3.51 Mbps
