@@ -1,3 +1,5 @@
-vless://FastKey_305996@45.129.2.18:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws# | 🇷🇺 speed: 2.13 Mbps
-vless://401c23eb-191b-4934-abb4-4a277d5870ba@out2.amirport.ir:82?encryption=none&security=none&type=tcp&headerType=none#filembad-141 | speed: 6.33 Mbps
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#filembad-43 | 🇬🇧 speed: 7.37 Mbps
+vless://45ef2743-ad11-4812-b7dc-82e311517c11@s1-checkol.harfuna.ir:7053?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8&spx=%2Fexample# | 🇩🇪 speed: 12.16 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#%F0%9F%87%B7%F0%9F%87%BARU-130.49.189.158-0393 | 🇷🇺 speed: 11.94 Mbps
+http://@128.199.116.219:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.116.219-0515 | 🇸🇬 speed: 5.91 Mbps
+vless://401c23eb-191b-4934-abb4-4a277d5870ba@out2.amirport.ir:82?encryption=none&security=none&type=tcp&headerType=none#filembad-141 | speed: 4.37 Mbps
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#filembad-43 | 🇬🇧 speed: 6.39 Mbps
