@@ -1,3 +1,4 @@
-vless://4d323bdb-11b7-4fd8-a642-f589ab5edc61@runner.panelsaz.com:2053?path=%2Ffree&security=none&encryption=mlkem768x25519plus.native.0rtt.kXgCEIxbi8wPibhG8C1otYqF4Ef_PWkdKsYgDhU6Wyw&host=iran.panelsaz.com&type=ws# | 🇮🇷 speed: 27.59 Mbps
-vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@94.249.198.124:31652?security=none&encryption=none&headerType=none&type=tcp# | 🇩🇪 speed: 4.22 Mbps
-http://@128.199.116.219:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.116.219-0515 | 🇸🇬 speed: 6.03 Mbps
+vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@94.249.198.124:31652?security=none&encryption=none&headerType=none&type=tcp# | 🇩🇪 speed: 6.20 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#%F0%9F%87%B7%F0%9F%87%BARU-130.49.189.158-0393 | 🇷🇺 speed: 5.15 Mbps
+http://@128.199.116.219:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.116.219-0515 | 🇸🇬 speed: 4.07 Mbps
+vless://401c23eb-191b-4934-abb4-4a277d5870ba@out2.amirport.ir:82?encryption=none&security=none&type=tcp&headerType=none#filembad-146 | speed: 5.15 Mbps
