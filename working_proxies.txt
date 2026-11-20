@@ -1,1 +1,1 @@
-vless://5af8f2c0-b8c9-450e-87d5-96d2b5eefc1d@de2.fusetea.ir:4040?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=AeKqcN80qHkABrpJeS9pFNbfrrr-U32nsXDcnlXcHjM&sid=7d2fc448a0663eef#filembad-219 | speed: 7.65 Mbps
+vless://5af8f2c0-b8c9-450e-87d5-96d2b5eefc1d@de2.fusetea.ir:4040?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=AeKqcN80qHkABrpJeS9pFNbfrrr-U32nsXDcnlXcHjM&sid=7d2fc448a0663eef# | 🇩🇪 speed: 6.93 Mbps
