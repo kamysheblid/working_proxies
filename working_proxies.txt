@@ -1,1 +1,1 @@
-vless://f636331e-70b4-4811-b352-315293de4a01@31.56.222.141:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.t2iR9kryqPewykpq9tVXBUNPQdI0rAm9gE6DaI8Hgzk&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp# | 🇳🇱 speed: 1.77 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%40V2rayng_Fast%20 | 🇷🇺 speed: 4.67 Mbps
