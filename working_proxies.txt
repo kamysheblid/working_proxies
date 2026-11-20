@@ -1,3 +1,4 @@
-vless://7fd0d6b3-4fea-48f4-ac70-d7f7093b7400@s1.berluno.ir:1155?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8&spx=%2Fexample# | speed: 15.67 Mbps
-vless://5af8f2c0-b8c9-450e-87d5-96d2b5eefc1d@de2.fusetea.ir:4040?security=reality&encryption=none&pbk=AeKqcN80qHkABrpJeS9pFNbfrrr-U32nsXDcnlXcHjM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=7d2fc448a0663eef# | 🇩🇪 speed: 10.73 Mbps
-vless://12c39efa-b6d8-4467-bfd5-22dca077225e@48.102.217.33:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY&host=www.samsung.com&fp=firefox&type=xhttp&sni=www.samsung.com&sid=733857f978b623eb# | 🇺🇸 speed: 12.36 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%40V2rayng_Fast%20 | 🇷🇺 speed: 12.67 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%40V2rayng_Fast%20 | 🇬🇧 speed: 0.19 Mbps
+vless://6a7df290-9197-44b0-fc7f-5b24cc78e24b@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws# | speed: 16.31 Mbps
+vless://12c39efa-b6d8-4467-bfd5-22dca077225e@48.102.217.33:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY&host=www.samsung.com&fp=firefox&type=xhttp&sni=www.samsung.com&sid=733857f978b623eb# | 🇺🇸 speed: 4.57 Mbps
