@@ -1,1 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTV0JKMmVPQ3JMSms@136.176.66.193:443#filembad-23 | 🇺🇸 speed: 14.83 Mbps
+vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3# | speed: 6.21 Mbps
+vless://5af8f2c0-b8c9-450e-87d5-96d2b5eefc1d@de2.fusetea.ir:4040?security=reality&encryption=none&pbk=AeKqcN80qHkABrpJeS9pFNbfrrr-U32nsXDcnlXcHjM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=7d2fc448a0663eef# | 🇩🇪 speed: 13.64 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTV0JKMmVPQ3JMSms@136.176.66.193:443#filembad-23 | 🇺🇸 speed: 15.59 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFpKN1I0cF9ISEozMmNzdDdpbFQtMFppMkYyMmhBYw@static.28.210.29.2.clients.your-server.de:25565#filembad-15 | speed: 14.59 Mbps
