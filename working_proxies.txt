@@ -1,2 +1,2 @@
-vless://1c942ed7-fef9-45c6-9873-91f93075185d@xhtt2.nimbaha9.ir:80?path=%2Fweqe&security=none&encryption=none&host=xhtt2.nimbaha9.ir&type=ws#filembad-112 | 🇮🇷 speed: 11.65 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#filembad-11 | 🇨🇦 speed: 5.98 Mbps
+vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?security=none&encryption=none&headerType=none&type=tcp#filembad-243 | 🇩🇪 speed: 14.42 Mbps
+trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-73 | 🇺🇸 speed: 7.11 Mbps
