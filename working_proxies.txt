@@ -1,3 +1,1 @@
-vless://bee52362-4183-42c5-b065-d3a3f344d00c@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#filembad-399 | speed: 7.48 Mbps
-vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?security=none&encryption=none&headerType=none&type=tcp#filembad-237 | 🇩🇪 speed: 5.51 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#filembad-11 | 🇨🇦 speed: 7.88 Mbps
+vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?security=none&encryption=none&headerType=none&type=tcp#filembad-237 | 🇩🇪 speed: 14.59 Mbps
