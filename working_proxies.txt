@@ -1,3 +1,1 @@
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:443?security=reality&encryption=none&pbk=_DS81HrngZsd_laYN5H0ZLvrqWhiW2DgMP2ea8KQkBc&headerType=&fp=firefox&spx=%2F5c9eb9b2ec2d856&type=tcp&sni=dl.google.com&sid=abcd1234# | 🇸🇪 speed: 12.52 Mbps
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443?security=&encryption=none&type=grpc&serviceName=vless-grpc# | 🇸🇪 speed: 12.94 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#filembad-11 | 🇨🇦 speed: 8.27 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#filembad-11 | 🇨🇦 speed: 7.18 Mbps
