@@ -1,2 +1,0 @@
-vless://4e932df2-a06a-4043-861c-87fe8d217aae@70.34.211.236:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=9b98825681aba023# | 🇸🇪 speed: 3.30 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443#filembad-15 | 🇨🇦 speed: 8.61 Mbps
