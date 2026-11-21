@@ -1,1 +1,2 @@
-vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?security=none&encryption=none&headerType=none&type=tcp#filembad-237 | 🇩🇪 speed: 11.05 Mbps
+vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?security=none&encryption=none&headerType=none&type=tcp#filembad-237 | 🇩🇪 speed: 1.99 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#filembad-11 | 🇨🇦 speed: 7.93 Mbps
