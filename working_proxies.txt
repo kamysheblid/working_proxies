@@ -1,4 +1,6 @@
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443?security=&encryption=none&type=grpc&serviceName=vless-grpc#filembad-420 | speed: 4.04 Mbps
-trojan://og85o9QeVVvtMD2sxPjO@sonau.yaremonta.loc.cc:8444?security=none&headerType=&type=tcp#filembad-74 | speed: 2.02 Mbps
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-73 | 🇺🇸 speed: 11.95 Mbps
-ss://YWVzLTI1Ni1nY206b2c4NW85UWVWVnZ0TUQyc3hQak8@sonau.yaremonta.loc.cc:1080#filembad-53 | speed: 3.97 Mbps
+vless://1c942ed7-fef9-45c6-9873-91f93075185d@v1.nimbaha13.ir:8880?path=%2Fdcfrtt&security=none&encryption=none&host=v1.nimbaha13.ir&type=ws# | 🇮🇷 speed: 2.36 Mbps
+vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443?security=&encryption=none&type=grpc&serviceName=vless-grpc#filembad-420 | speed: 3.78 Mbps
+vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:443?security=reality&encryption=none&pbk=_DS81HrngZsd_laYN5H0ZLvrqWhiW2DgMP2ea8KQkBc&headerType=none&fp=firefox&spx=%2F5c9eb9b2ec2d856&type=tcp&sni=dl.google.com&sid=abcd1234&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#filembad-417 | speed: 4.35 Mbps
+trojan://og85o9QeVVvtMD2sxPjO@sonau.yaremonta.loc.cc:8444?security=none&headerType=&type=tcp#filembad-74 | speed: 10.07 Mbps
+trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-73 | 🇺🇸 speed: 7.08 Mbps
+ss://YWVzLTI1Ni1nY206b2c4NW85UWVWVnZ0TUQyc3hQak8@sonau.yaremonta.loc.cc:1080#filembad-53 | speed: 8.69 Mbps
