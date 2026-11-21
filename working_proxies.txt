@@ -1,3 +1,1 @@
-vless://51a6ab93-e805-4b8b-89d1-d3ab85a118ce@54.36.102.152:2083?path=%2Fvless-kulo&security=&encryption=none&type=ws# | 🇫🇷 speed: 4.75 Mbps
-vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?security=none&encryption=none&headerType=none&type=tcp#filembad-237 | 🇩🇪 speed: 11.70 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#filembad-11 | 🇨🇦 speed: 8.31 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#filembad-11 | 🇨🇦 speed: 7.48 Mbps
