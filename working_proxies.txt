@@ -1,3 +1,1 @@
-vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@104.17.145.145:2083?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=vipfree.dr-ping.ir&fp=chrome&type=ws&allowInsecure=0&sni=vipfree.dr-ping.ir#Tel%40V2rayng_Fast%20%F0%9F%87%A9%F0%9F%87%AA | 🇨🇦 speed: 7.46 Mbps
-vless://5af8f2c0-b8c9-450e-87d5-96d2b5eefc1d@de2.fusetea.ir:4040?security=reality&encryption=none&pbk=AeKqcN80qHkABrpJeS9pFNbfrrr-U32nsXDcnlXcHjM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=7d2fc448a0663eef#filembad-223 | speed: 15.43 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443#filembad-15 | 🇨🇦 speed: 7.22 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443#filembad-15 | 🇨🇦 speed: 6.62 Mbps
