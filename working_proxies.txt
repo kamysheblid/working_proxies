@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTY0OTIwNmRjNTI0OTRkOWQ4NmI3MTcwYTA0MDU0Ng@mojtun.mlbaz.ir:555#filembad-10 | 🇮🇷 speed: 14.98 Mbps
+vless://5734b9b1-7258-4571-bb1f-24ba2b994ae6@65.109.221.121:46002?security=none&encryption=none&headerType=none&type=tcp# | 🇫🇮 speed: 6.10 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTY0OTIwNmRjNTI0OTRkOWQ4NmI3MTcwYTA0MDU0Ng@mojtun.mlbaz.ir:555#filembad-10 | speed: 15.48 Mbps
