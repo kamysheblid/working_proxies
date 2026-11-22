@@ -1,6 +1,4 @@
-vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@netherlanddocjac.whooisthebest.ir:10000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=cd0a1986719e44c8# | 🇷🇸 speed: 8.86 Mbps
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:8443?security=&encryption=none&type=grpc&serviceName=vless-grpc#filembad-420 | 🇸🇪 speed: 3.33 Mbps
-vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:443?security=reality&encryption=none&pbk=_DS81HrngZsd_laYN5H0ZLvrqWhiW2DgMP2ea8KQkBc&headerType=none&fp=firefox&spx=%2F5c9eb9b2ec2d856&type=tcp&sni=dl.google.com&sid=abcd1234&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#filembad-417 | 🇸🇪 speed: 6.54 Mbps
-trojan://og85o9QeVVvtMD2sxPjO@sonau.yaremonta.loc.cc:8444?security=none&headerType=&type=tcp#filembad-74 | 🇸🇪 speed: 9.84 Mbps
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-73 | 🇺🇸 speed: 9.74 Mbps
-ss://YWVzLTI1Ni1nY206b2c4NW85UWVWVnZ0TUQyc3hQak8@sonau.yaremonta.loc.cc:1080#filembad-53 | 🇸🇪 speed: 13.55 Mbps
+vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@netherlanddocjac.whooisthebest.ir:10000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=cd0a1986719e44c8#filembad-321 | 🇷🇸 speed: 6.72 Mbps
+vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=6115f6a9eb8467c6#filembad-133 | 🇪🇸 speed: 11.59 Mbps
+vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=29a833ab20778306#filembad-132 | 🇪🇸 speed: 12.80 Mbps
+trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-73 | 🇺🇸 speed: 11.64 Mbps
