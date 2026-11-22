@@ -1,3 +1,2 @@
-vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=6115f6a9eb8467c6#filembad-132 | 🇪🇸 speed: 12.92 Mbps
-vless://29872718-970b-493e-abc9-524fa266d16b@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=29a833ab20778306#filembad-131 | 🇪🇸 speed: 12.66 Mbps
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-71 | 🇺🇸 speed: 7.56 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.219-0248 | 🇬🇧 speed: 0.25 Mbps
+trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-81 | 🇺🇸 speed: 9.31 Mbps
