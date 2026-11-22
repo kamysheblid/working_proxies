@@ -1,2 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.219-0248 | 🇬🇧 speed: 0.25 Mbps
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#filembad-81 | 🇺🇸 speed: 9.31 Mbps
