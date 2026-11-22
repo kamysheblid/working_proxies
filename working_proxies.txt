@@ -1,2 +1,2 @@
-vless://3623020f-7761-4a70-82f3-6d51f478fb0f@193.151.147.148:2052?path=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&security=none&encryption=mlkem768x25519plus.random.0rtt.Gdo5Vmm4Sz4xp9xS5am6m6cpOqqGitbFUzCIJZugUC0&type=ws# | 🇮🇷 speed: 9.42 Mbps
-ss://YWVzLTI1Ni1nY206Wm1FME56QTVNakF5TkRVell6WTJaVFpoWm1NeU1tRXpNekUwTm1ReQ@130.185.144.4:995#filembad-60 | 🇬🇧 speed: 12.08 Mbps
+vless://7eb360e0-3bf4-4e9b-9192-ca25a2f54b73@167.233.147.162:2096?security=&encryption=mlkem768x25519plus.random.0rtt.Mo0omYhnWcOmkKvwU8vNkcn8Ru_xfkpul3FhJzHCWy4&host=clientauthconfig.googleapis.com&headerType=none&type=tcp# | 🇩🇪 speed: 8.22 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#filembad-14 | 🇷🇺 speed: 11.73 Mbps
