@@ -1,2 +1,0 @@
-vless://621fe149-d083-45aa-b71b-bfe0e3afbc57@cip.nimbaha12.ir:2082?security=reality&encryption=none&pbk=S8HvumWz220iqyw-XSMXZ-YwQT53kA6-cw2utT_s1BE&headerType=none&fp=chrome&spx=%2Fb8b29a35461be30&type=tcp&sni=filimo.com&sid=6e4a9550cd4e#filembad-231 | 🇩🇪 speed: 10.72 Mbps
-vless://46e98c52-cfb4-404f-8163-8b1ba208d52b@2.56.125.209:80?security=reality&encryption=none&pbk=rI-T-Tg9OSeTitOe9zwApjKQfVZ6bhYZ5CJGJneatmE&headerType=none&fp=chrome&spx=%2F4aa222dd8d606e9&type=tcp&sni=api-stg.semiconductor.samsung.cn&sid=ed#filembad-152 | 🇵🇱 speed: 10.12 Mbps
