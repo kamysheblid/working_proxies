@@ -1,2 +1,1 @@
-vless://46e98c52-cfb4-404f-8163-8b1ba208d52b@2.56.125.209:80?security=reality&encryption=none&pbk=rI-T-Tg9OSeTitOe9zwApjKQfVZ6bhYZ5CJGJneatmE&headerType=none&fp=chrome&spx=%2F4aa222dd8d606e9&type=tcp&sni=api-stg.semiconductor.samsung.cn&sid=ed# | 🇵🇱 speed: 12.74 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyd3p2VkVKRGpwTW9wUkFr@20.87.216.236:443#filembad-8 | 🇿🇦 speed: 0.22 Mbps
+vless://46e98c52-cfb4-404f-8163-8b1ba208d52b@2.56.125.209:80?security=reality&encryption=none&pbk=rI-T-Tg9OSeTitOe9zwApjKQfVZ6bhYZ5CJGJneatmE&headerType=none&fp=chrome&spx=%2F4aa222dd8d606e9&type=tcp&sni=api-stg.semiconductor.samsung.cn&sid=ed# | 🇵🇱 speed: 11.83 Mbps
