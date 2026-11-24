@@ -1,2 +1,2 @@
-vless://532f30c0-af1a-4b40-85b6-0c1a1ad26077@prim.jafarghasemiturkk.ir:8080?encryption=none&fp=chrome&pbk=IUx9PcA6L5YQiQeJUREjmm2kL6bfWcwItuZYZvxPJhc&security=reality&sid=17f04e8b&sni=play.google.com&spx=%2Fd9f72c40a0b25fa&support-x25519mlkem768=true&type=tcp# | 🇩🇪 speed: 14.57 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SEtlWkhDZkg5VEZsVmJjdmRWLXpWRldERnM0VDdGWA==@netplus.melvona-digital.ir:1080#filembad-11 | 🇸🇪 speed: 6.18 Mbps
+vless://532f30c0-af1a-4b40-85b6-0c1a1ad26077@prim.jafarghasemiturkk.ir:8080?encryption=none&fp=chrome&pbk=IUx9PcA6L5YQiQeJUREjmm2kL6bfWcwItuZYZvxPJhc&security=reality&sid=17f04e8b&sni=play.google.com&spx=%2Fd9f72c40a0b25fa&support-x25519mlkem768=true&type=tcp# | 🇩🇪 speed: 16.62 Mbps
+vless://b51f6369-b2ab-4dd6-a2e8-d0748f3da1f2@vip.orbxnet.ru:5080?encryption=mlkem768x25519plus.native.0rtt.xVKXiaXMBl2LULWjDWyoduB5RcOKfKsqKauMhCo-Vj0&security=none&type=ws&host=vip.orbxnet.shop&path=%2F#filembad-346 | speed: 25.42 Mbps
