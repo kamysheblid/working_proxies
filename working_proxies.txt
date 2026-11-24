@@ -1,2 +1,2 @@
-vless://FastKey_272260@48.103.218.68:8080?path=%2Fapi&security=&encryption=none&host=google.com&type=ws#filembad-309 | 🇺🇸 speed: 7.18 Mbps
-vless://33d67a80-909e-4cec-aa8f-601f6019a8f0@23.27.199.148:24378?security=reality&encryption=none&pbk=neyQkmBRy_PQjVEN1c6a9UqGyTf-UePx1HNoRCmgFkw&headerType=none&fp=chrome&spx=%2F64d290e8e33721f&type=tcp&sni=shield.nvidia.hk&sid=31a5fe51#filembad-132 | 🇲🇾 speed: 5.90 Mbps
+vless://FastKey_272260@48.103.218.68:8080?path=%2Fapi&security=&encryption=none&host=google.com&type=ws#filembad-309 | 🇺🇸 speed: 11.15 Mbps
+vless://33d67a80-909e-4cec-aa8f-601f6019a8f0@23.27.199.148:24378?security=reality&encryption=none&pbk=neyQkmBRy_PQjVEN1c6a9UqGyTf-UePx1HNoRCmgFkw&headerType=none&fp=chrome&spx=%2F64d290e8e33721f&type=tcp&sni=shield.nvidia.hk&sid=31a5fe51#filembad-132 | 🇲🇾 speed: 5.36 Mbps
