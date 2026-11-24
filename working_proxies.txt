@@ -1,2 +1,2 @@
-vless://391a32c6-084c-4d61-8e8d-472678021dac@145.79.177.134:6443?mode=gun&security=reality&encryption=none&authority=www.semiconductor.samsung.com&pbk=a3yUxhq8UVjuSGrtdQZs-epe3B8fepkuCOkGibNyL0E&fp=firefox&type=grpc&serviceName=%2Fapi%2Fv1%2Fupdate&sni=www.semiconductor.samsung.com&sid=27b13b0239429b12# | 🇩🇪 speed: 3.38 Mbps
-vless://0feb32f5-f217-4b15-9f91-471026645efc@49.13.123.79:443?encryption=mlkem768x25519plus.native.0rtt.nLqxCp0JbDrmzUY1Cmuvbutg9f1QDXsvqkYTok4Prjk&security=reality&type=xhttp&host=matin.wanqila.ir&mode=auto&sni=matin.wanqila.ir&fp=chrome&alpn=h3,h2,http/1.1&pbk=4msKVLR9mH_YCcVTy7rvg0_Nktzijcm5Dsav2Ps6WDM&sid=eaabeb44760c2472#filembad-98 | 🇩🇪 speed: 11.98 Mbps
+vless://FastKey_272260@48.103.218.68:8080?path=%2Fapi&security=&encryption=none&host=google.com&type=ws#filembad-309 | 🇺🇸 speed: 2.72 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SEtlWkhDZkg5VEZsVmJjdmRWLXpWRldERnM0VDdGWA==@netplus.melvona-digital.ir:1080#filembad-11 | speed: 7.95 Mbps
