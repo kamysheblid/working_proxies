@@ -1,2 +1,0 @@
-vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.245:443?security=&encryption=mlkem768x25519plus.native.0rtt.NPITyKcLP3ZK5ulXf_tjxU85NIRZTq1etgX54VAeI0c&headerType=none&type=tcp# | 🇷🇺 speed: 8.45 Mbps
-vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.249:443?security=none&encryption=mlkem768x25519plus.native.0rtt.nHoPNLMt_oBBrE9YodTzva_TCX4cF2Tz2ReH_jRwqCo&headerType=none&type=tcp# | 🇷🇺 speed: 9.82 Mbps
