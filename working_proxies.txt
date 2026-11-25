@@ -1,4 +1,2 @@
-vless://532f30c0-af1a-4b40-85b6-0c1a1ad26077@prim.jafarghasemiturkk.ir:8080?encryption=none&fp=chrome&pbk=IUx9PcA6L5YQiQeJUREjmm2kL6bfWcwItuZYZvxPJhc&security=reality&sid=17f04e8b&sni=play.google.com&spx=%2Fd9f72c40a0b25fa&support-x25519mlkem768=true&type=tcp# | 🇩🇪 speed: 14.17 Mbps
-vless://FastKey_272260@48.103.218.68:8080?path=%2Fapi&security=&encryption=none&host=google.com&type=ws# | 🇺🇸 speed: 12.15 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#%F0%9F%87%B7%F0%9F%87%BARU-130.49.189.158-0291 | 🇷🇺 speed: 3.34 Mbps
-ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.220:8080#filembad-40 | 🇬🇧 speed: 0.28 Mbps
+vless://532f30c0-af1a-4b40-85b6-0c1a1ad26077@prim.jafarghasemiturkk.ir:8080?encryption=none&fp=chrome&pbk=IUx9PcA6L5YQiQeJUREjmm2kL6bfWcwItuZYZvxPJhc&security=reality&sid=17f04e8b&sni=play.google.com&spx=%2Fd9f72c40a0b25fa&support-x25519mlkem768=true&type=tcp# | 🇩🇪 speed: 8.08 Mbps
+vless://FastKey_272260@48.103.218.68:8080?path=%2Fapi&security=&encryption=none&host=google.com&type=ws# | 🇺🇸 speed: 13.14 Mbps
