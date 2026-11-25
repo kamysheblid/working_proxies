@@ -1,1 +1,2 @@
-vless://532f30c0-af1a-4b40-85b6-0c1a1ad26077@prim.jafarghasemiturkk.ir:8080?encryption=none&fp=chrome&pbk=IUx9PcA6L5YQiQeJUREjmm2kL6bfWcwItuZYZvxPJhc&security=reality&sid=17f04e8b&sni=play.google.com&spx=%2Fd9f72c40a0b25fa&support-x25519mlkem768=true&type=tcp#filembad-202 | speed: 3.37 Mbps
+http://@128.199.116.219:9090?tls=false#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.116.219-0532 | 🇸🇬 speed: 5.72 Mbps
+http://@89.106.84.72:1081?tls=false#%F0%9F%87%BA%F0%9F%87%B8US-89.106.84.72-0533 | 🇺🇸 speed: 6.74 Mbps
