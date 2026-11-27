@@ -1,3 +1,0 @@
-vless://80256d6f-7cd3-4a3a-8df6-2981e52551dc@amz.gsmfixs.com:16893?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=dpmXAfLC6-Sf6cPjkQKGx_NliRQRFZ_oUiiPA5ALW0I&sid=849711f2b99d1176&spx=/# | 🇵🇱 speed: 5.71 Mbps
-vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.245:443?security=&encryption=mlkem768x25519plus.native.0rtt.NPITyKcLP3ZK5ulXf_tjxU85NIRZTq1etgX54VAeI0c&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp# | 🇷🇺 speed: 9.92 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuODdjTTBMdjdZM1Q@66.163.117.141:443#filembad-35 | 🇬🇧 speed: 4.06 Mbps
