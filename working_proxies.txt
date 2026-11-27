@@ -1,2 +1,8 @@
-vless://5da871c5-3629-4fba-b361-4124afba7022@160.202.132.40:2053?path=%2Fnlrma&security=none&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws# | 🇺🇸 speed: 11.68 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-11 | speed: 11.22 Mbps
+vless://5da871c5-3629-4fba-b361-4124afba7022@45.134.38.247:2083?path=%2Ftrrma&security=none&encryption=mlkem768x25519plus.native.0rtt.TPNz8R35iL6uy02wUC52aLzi7tXUKAehmSmHcG1o_wM&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&type=ws# | 🇩🇪 speed: 2.21 Mbps
+vless://5da871c5-3629-4fba-b361-4124afba7022@45.134.38.247:2083?encryption=mlkem768x25519plus.native.0rtt.TPNz8R35iL6uy02wUC52aLzi7tXUKAehmSmHcG1o_wM&path=%2Ftrrma&type=ws&security=none# | 🇩🇪 speed: 3.16 Mbps
+vless://5da871c5-3629-4fba-b361-4124afba7022@45.134.38.19:2087?encryption=mlkem768x25519plus.native.0rtt.Q7pPTtJfiEdYnSCGuiceMB7hfhwlvqzz5Ds8F6eXG24&security=none&type=ws&headerType=none&path=%2Ffreerma#filembad-230 | 🇩🇪 speed: 3.62 Mbps
+ss://YWVzLTI1Ni1nY206RFlRMFVmOTZNd25FR0tJSA@103.115.18.249:8388#filembad-52 | 🇯🇵 speed: 4.50 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443#filembad-16 | 🇺🇸 speed: 7.53 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-12 | speed: 14.20 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-11 | 🇫🇷 speed: 14.39 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSkNIVTFzVjM0TTVUVzRkNExIOFNHbkp0NXhtT2ZZMw@bash.mrvservice.ir:3230#filembad-10 | speed: 9.54 Mbps
