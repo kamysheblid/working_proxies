@@ -1,5 +1,6 @@
-vless://56f37f62-099d-4aeb-b3ee-48ff2f1cacfd@panel.jorvexo.ir:1152?encryption=none&type=xhttp&mode=auto&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&fp=chrome&sni=in.tradingview.com&pbk=Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE&sid=ead6bdba606219a2&spx=%2F# | 🇩🇪 speed: 16.91 Mbps
-vless://47921e53-9a38-4e2e-8a39-08b38512eff4@tpll.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=aa74a7a98e86f2ed# | 🇪🇸 speed: 11.02 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443#filembad-16 | 🇺🇸 speed: 7.16 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-12 | speed: 14.59 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-11 | 🇫🇷 speed: 15.62 Mbps
+vless://56f37f62-099d-4aeb-b3ee-48ff2f1cacfd@panel.jorvexo.ir:1152?encryption=none&type=xhttp&mode=auto&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&fp=chrome&sni=in.tradingview.com&pbk=Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE&sid=ead6bdba606219a2&spx=%2F# | 🇩🇪 speed: 18.19 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#filembad-23 | 🇬🇧 speed: 0.13 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443#filembad-16 | 🇺🇸 speed: 7.27 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-12 | speed: 13.54 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-11 | 🇫🇷 speed: 15.37 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSkNIVTFzVjM0TTVUVzRkNExIOFNHbkp0NXhtT2ZZMw@bash.mrvservice.ir:3230#filembad-10 | speed: 24.67 Mbps
