@@ -1,3 +1,2 @@
-vless://8f2940bc-a353-4efc-a9a0-22184cd4f1ac@p2real33.greewebservices.ir:1330?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3# | speed: 1.93 Mbps
-vless://8a0a11cb-76f0-451e-97d5-a7fb0a66e36a@p2real1.greewebservices.ir:1310?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3# | speed: 8.76 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-11 | speed: 12.92 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuODdjTTBMdjdZM1Q@66.163.117.141:443#filembad-35 | 🇬🇧 speed: 5.91 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-11 | speed: 13.21 Mbps
