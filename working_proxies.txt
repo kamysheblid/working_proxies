@@ -1,2 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuODdjTTBMdjdZM1Q@66.163.117.141:443#filembad-35 | 🇬🇧 speed: 5.91 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-11 | speed: 13.21 Mbps
+vless://80256d6f-7cd3-4a3a-8df6-2981e52551dc@amz.gsmfixs.com:16893?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=dpmXAfLC6-Sf6cPjkQKGx_NliRQRFZ_oUiiPA5ALW0I&sid=849711f2b99d1176&spx=/# | speed: 5.74 Mbps
+vless://8f2940bc-a353-4efc-a9a0-22184cd4f1ac@areal4.greewebservices.ir:5455?security=reality&encryption=none&pbk=nOBPd5aR2G7qpuUbUE2QuLSWGcZu2hzaomJDlMqgi3g&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=f06cda7e62da184a# | speed: 8.98 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeDV6MmJ6cG4wdFRwWXp2@102.37.97.69:443?type=tcp#filembad-19 | 🇿🇦 speed: 0.22 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-11 | speed: 12.71 Mbps
