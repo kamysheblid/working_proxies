@@ -1,4 +1,4 @@
-vless://b92fa8ab-5a4b-4202-8e2d-af8e8b332193@109.176.202.177:443?security=reality&encryption=none&pbk=4YuPm6_B_Aa9Um70LtKFnVfA_F8uiwwmXChE_pyXjX8&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=ec77cd113fc57140# | 🇩🇪 speed: 2.06 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443#filembad-16 | 🇺🇸 speed: 6.93 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-12 | speed: 13.50 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-11 | 🇫🇷 speed: 14.69 Mbps
+vless://b92fa8ab-5a4b-4202-8e2d-af8e8b332193@109.176.202.177:443?security=reality&encryption=none&pbk=4YuPm6_B_Aa9Um70LtKFnVfA_F8uiwwmXChE_pyXjX8&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=ec77cd113fc57140# | 🇩🇪 speed: 2.63 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443#filembad-16 | 🇺🇸 speed: 7.59 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-12 | speed: 13.03 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-11 | 🇫🇷 speed: 14.07 Mbps
