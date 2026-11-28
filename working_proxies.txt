@@ -1,5 +1,2 @@
-vmess://eyJhZGQiOiJJci53YnpvLmlyIiwiYWlkIjoiMCIsImlkIjoiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwibmV0IjoidGNwIiwicG9ydCI6MjA4MCwicHMiOiJmaWxlbWJhZC00MzgiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 | speed: 13.13 Mbps
-vmess://eyJhZGQiOiJJci53YnpvLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJlY2giOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI3ZTNlOGFmLWQxY2EtNDVkYS1hOTVmLThiOWFkNzczOThiMSIsImluc2VjdXJlIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMDgwIiwicHF2IjoiIiwicHMiOiJmaWxlbWJhZC00MDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 12.61 Mbps
-vless://2c2106e0-2c61-40f8-9249-1843bacbb0ae@Ir.wbzo.ir:1240?encryption=mlkem768x25519plus.native.0rtt.Jt4FEz9uYr8jlVSTg70LyzsUF87dLsOhTeKOgA-q938&security=none&type=tcp&headerType=none#filembad-126 | speed: 5.14 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-22 | speed: 3.04 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-21 | 🇫🇷 speed: 3.11 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#%40V2rayng_Fast%20 | 🇬🇧 speed: 0.25 Mbps
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@alsu.deev-guard.ir:1289?encryption=mlkem768x25519plus.native.0rtt.l4vL8o_tMDEuI19vLDJYXFJOvYodTEgF6uK6gqjsDVw&security=none&type=tcp&headerType=none# | 🇩🇪 speed: 14.82 Mbps
