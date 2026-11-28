@@ -1,7 +1,3 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiSXIud2J6by5pciIsICJwb3J0IjogIjIwODAiLCAiaWQiOiAiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiIiwgInBjcyI6ICIiLCAidmNuIjogIiIsICJlY2giOiAiIiwgInBxdiI6ICIifQ== | speed: 3.79 Mbps
-vless://9d94f909-1e8d-4e7a-ab5c-6287bacc7bee@85.133.200.131:12155?encryption=none&security=reality&sni=aparat.com&fp=chrome&pbk=iFTOz3izde76_7aDLvj0f04blmr4fwdYkD6eW93jSmQ&sid=09&spx=%2F58be1c386db2164&type=tcp&headerType=none# | 🇮🇷 speed: 14.42 Mbps
-vmess://eyJhZGQiOiAiSXIud2J6by5pciIsICJhaWQiOiAiMCIsICJpZCI6ICJiN2UzZThhZi1kMWNhLTQ1ZGEtYTk1Zi04YjlhZDc3Mzk4YjEiLCAibmV0IjogInRjcCIsICJwb3J0IjogMjA4MCwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9 | speed: 2.20 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443?#filembad-30 | 🇺🇸 speed: 8.41 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVmx0LU9lQVY0UmlMTXdUOWUwVDcybm5GdE1HMlczbw@S23.fusetea.ir:2089#filembad-24 | speed: 2.75 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-22 | speed: 13.64 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-21 | 🇫🇷 speed: 12.77 Mbps
+vmess://eyJhZGQiOiJJci53YnpvLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJlY2giOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI3ZTNlOGFmLWQxY2EtNDVkYS1hOTVmLThiOWFkNzczOThiMSIsImluc2VjdXJlIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMDgwIiwicHF2IjoiIiwicHMiOiJmaWxlbWJhZC00MDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 | speed: 4.32 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443?#filembad-30 | 🇺🇸 speed: 7.60 Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVmx0LU9lQVY0UmlMTXdUOWUwVDcybm5GdE1HMlczbw@S23.fusetea.ir:2089#filembad-24 | speed: 12.33 Mbps
