@@ -1,5 +1,2 @@
-vless://a2490dfc-3950-4765-8421-8f3dddee29f6@tpii.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=safari&type=tcp&sni=delivery.mp.microsoft.com&sid=3e5cba1bd6eb6221#filembad-288 | 🇵🇱 speed: 14.84 Mbps
-vless://21d1180e-e19f-4510-9afb-d5a6b0d1668f@tpii.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=safari&type=tcp&sni=delivery.mp.microsoft.com&sid=3e5cba1bd6eb6221#filembad-115 | 🇵🇱 speed: 14.02 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443?#filembad-30 | 🇺🇸 speed: 7.00 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@leviko-fr1459.shopingggg.ir:443#filembad-22 | speed: 14.21 Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#filembad-21 | 🇫🇷 speed: 14.66 Mbps
+vless://a2490dfc-3950-4765-8421-8f3dddee29f6@tpii.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=safari&type=tcp&sni=delivery.mp.microsoft.com&sid=3e5cba1bd6eb6221#filembad-288 | 🇵🇱 speed: 4.84 Mbps
+vless://21d1180e-e19f-4510-9afb-d5a6b0d1668f@tpii.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=safari&type=tcp&sni=delivery.mp.microsoft.com&sid=3e5cba1bd6eb6221#filembad-115 | 🇵🇱 speed: 4.62 Mbps
